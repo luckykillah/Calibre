@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17add6e5-7c68-44d1-a9f7-f499ad876968</dc:identifier>
+        <dc:title>Crossed</dc:title>
+        <dc:creator opf:file-as="Ally, Condie," opf:role="aut">Condie, Ally</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-20T04:00:00+00:00</dc:date>
+        <dc:publisher>PENGUIN group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Condie, Ally&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:25:34+00:00" name="calibre:timestamp"/>
+        <meta content="Crossed" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">161</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">903fd22e-012e-466a-bc38-f3bd14d0f676</dc:identifier>
+        <dc:title>Color Purple</dc:title>
+        <dc:creator opf:file-as="Walker, Alice" opf:role="aut">Alice Walker</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Novel by Alice Walker, published in 1982. It won a Pulitzer Prize in 
+1983. A feminist novel about an abused and uneducated black woman's 
+struggle for empowerment, the novel was praised for the depth of its 
+female characters and for its eloquent use of black English vernacular.&lt;/p&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780156028356</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Alice Walker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-10-28T01:52:18+00:00" name="calibre:timestamp"/>
+        <meta content="Color Purple" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

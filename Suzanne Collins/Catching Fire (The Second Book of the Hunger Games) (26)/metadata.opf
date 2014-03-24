@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b8362163-76ca-4d5d-9d70-8035f5cfb34d</dc:identifier>
+        <dc:title>Catching Fire (The Second Book of the Hunger Games)</dc:title>
+        <dc:creator opf:file-as="Collins, Suzanne" opf:role="aut">Suzanne Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-03T04:00:00+00:00</dc:date>
+        <dc:publisher>Scholastic</dc:publisher>
+        <dc:identifier opf:scheme="SONYBOOKID">CBUSCESCL000000O</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Suzanne Collins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:26:38+00:00" name="calibre:timestamp"/>
+        <meta content="Catching Fire (The Second Book of the Hunger Games)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

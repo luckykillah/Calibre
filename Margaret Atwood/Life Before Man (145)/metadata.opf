@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e0e21b2-d238-4b7e-b083-f050aeab8f3b</dc:identifier>
+        <dc:title>Life Before Man</dc:title>
+        <dc:creator opf:file-as="Atwood, Margaret" opf:role="aut">Margaret Atwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1980-01-02T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Imprisoned by walls of their own construction, here are three people, each in midlife, in midcrisis, forced to make choices--after the rules have changed. Elizabeth, with her controlled sensuality, her suppressed rage, is married to the wrong man. She has just lost her latest lover to suicide. Nate, her gentle, indecisive husband, is planning to leave her for Lesje, a perennial innocent who prefers dinosaurs to men. Hanging over them all is the ghost of Elizabeth's dead lover...and the dizzying threat of three lives careening inevitably toward the same climax.&lt;/p&gt;</dc:description>
+        <dc:publisher>Anchor</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385491105</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Feminism</dc:subject>
+        <meta content="{&quot;Margaret Atwood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2013-09-20T04:44:06+00:00" name="calibre:timestamp"/>
+        <meta content="Life Before Man" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2b14e6a-ead4-4c0e-95f4-a2fb6d227a80</dc:identifier>
+        <dc:title>When You Are Engulfed in Flames</dc:title>
+        <dc:creator opf:file-as="SEDARIS, DAVID" opf:role="aut">David Sedaris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-03T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;"David Sedaris's ability to transform the mortification of everyday life into wildly entertaining art," (&lt;I&gt;The Christian Science Monitor&lt;/I&gt;) is elevated to wilder and more entertaining heights than ever in this remarkable new book. &lt;BR&gt;Trying to make coffee when the water is shut off, David considers using the water in a vase of flowers and his chain of associations takes him from the French countryside to a hilariously uncomfortable memory of buying drugs in a mobile home in rural &lt;st1:place w:st="on"&gt;&lt;st1:State w:st="on"&gt;North Carolina  . In essay after essay, Sedaris proceeds from bizarre conundrums of daily life-having a lozenge fall from your mouth into the lap of a fellow passenger on a plane or armoring the windows with LP covers to protect the house from neurotic songbirds-to the most deeply resonant human truths.  Culminating in a brilliant account of his venture to &lt;st1:place w:st="on"&gt;&lt;st1:City w:st="on"&gt;Tokyo   in order to quit smoking, David Sedaris's sixth essay c...</dc:description>
+        <dc:publisher>Little, Brown and Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316032513</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>HUM003000</dc:subject>
+        <meta content="{&quot;David Sedaris&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-09-20T04:42:53+00:00" name="calibre:timestamp"/>
+        <meta content="When You Are Engulfed in Flames" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

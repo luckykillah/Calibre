@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">109</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f9d8b8b5-9e30-472d-923e-4de9ad1b9f4a</dc:identifier>
+        <dc:title>Agile Web Development with Rails 4 (for charity: water)</dc:title>
+        <dc:creator opf:file-as="Sam Ruby, Dave Thomas, David Heinemeier Hansson" opf:role="aut">Sam Ruby, Dave Thomas, David Heinemeier Hansson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>The Pragmatic Bookshelf, LLC (10029605)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-937785-56-7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pragmatic Bookshelf</dc:subject>
+        <meta content="{&quot;Sam Ruby, Dave Thomas, David Heinemeier Hansson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-07-04T20:58:10+00:00" name="calibre:timestamp"/>
+        <meta content="Agile Web Development with Rails 4 (for charity: water)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

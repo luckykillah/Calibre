@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">34</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ede2b300-3da3-4632-900a-b85e3c0d1219</dc:identifier>
+        <dc:title>Blood of the Fold</dc:title>
+        <dc:creator opf:file-as="Goodkind, Terry" opf:role="aut">Terry Goodkind</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-12T04:00:00+00:00</dc:date>
+        <dc:publisher>ePub Bud (www.epubbud.com)</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Terry Goodkind&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:27:43+00:00" name="calibre:timestamp"/>
+        <meta content="Blood of the Fold" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

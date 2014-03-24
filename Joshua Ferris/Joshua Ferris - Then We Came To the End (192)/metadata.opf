@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c4c81e4c-e270-456e-bc2b-1e718c21c553</dc:identifier>
+        <dc:title>Joshua Ferris - Then We Came To the End</dc:title>
+        <dc:creator opf:file-as="Ferris, Joshua" opf:role="aut">Joshua Ferris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Joshua Ferris&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-06T03:13:06+00:00" name="calibre:timestamp"/>
+        <meta content="Joshua Ferris - Then We Came To the End" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

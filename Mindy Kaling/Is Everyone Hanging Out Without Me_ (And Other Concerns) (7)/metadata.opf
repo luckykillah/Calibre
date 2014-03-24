@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2701b3e0-f0e6-4eea-9f33-ded1a2a9130b</dc:identifier>
+        <dc:title>Is Everyone Hanging Out Without Me? (And Other Concerns)</dc:title>
+        <dc:creator opf:file-as="Kaling, Mindy" opf:role="aut">Mindy Kaling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Mindy Kaling has lived many lives: the obedient child of immigrant professionals, a timid chubster afraid of her own bike, a Ben Affleck--impersonating Off-Broadway performer and playwright, and, finally, a comedy writer and actress prone to starting fights with her friends and coworkers with the sentence "Can I just say one last thing about this, and then I swear I'll shut up about it?" &lt;br&gt;&lt;br&gt;Perhaps you want to know what Mindy thinks makes a great best friend (someone who will fill your prescription in the middle of the night), or what makes a great guy (one who is aware of all elderly people in any room at any time and acts accordingly), or what is the perfect amount of fame (so famous you can never get convicted of murder in a court of law), or how to maintain a trim figure (you will not find that information in these pages). If so, you've come to the right book, mostly!&lt;br&gt;&lt;br&gt;In &lt;i&gt;Is Everyone Hanging Out Without Me?, &lt;/i&gt;Mindy invites readers on a tour of her life and...</dc:description>
+        <dc:publisher>Crown Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-88628-6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Mindy Kaling&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:12:35+00:00" name="calibre:timestamp"/>
+        <meta content="Is Everyone Hanging Out Without Me? (And Other Concerns)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

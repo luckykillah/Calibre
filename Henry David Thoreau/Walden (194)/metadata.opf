@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e833f420-e38e-483d-8e47-8462af3e3bc4</dc:identifier>
+        <dc:title>Walden</dc:title>
+        <dc:creator opf:file-as="Thoreau, Henry David" opf:role="aut">Henry David Thoreau</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-01T05:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Civil disobedience</dc:subject>
+        <dc:subject>Henry David</dc:subject>
+        <dc:subject>American -- 19th century -- Biography</dc:subject>
+        <dc:subject>Solitude</dc:subject>
+        <dc:subject>Natural history -- Massachusetts -- Walden Woods</dc:subject>
+        <dc:subject>Wilderness areas -- Massachusetts -- Walden Woods</dc:subject>
+        <dc:subject>Thoreau</dc:subject>
+        <dc:subject>Authors</dc:subject>
+        <dc:subject>1817-1862 -- Homes and haunts -- Massachusetts -- Walden Woods</dc:subject>
+        <meta content="{&quot;Henry David Thoreau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-13T05:02:54+00:00" name="calibre:timestamp"/>
+        <meta content="Walden" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

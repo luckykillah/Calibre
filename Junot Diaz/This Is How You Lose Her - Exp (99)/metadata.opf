@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">99</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6769763-a630-4248-a5ef-2a58f809db21</dc:identifier>
+        <dc:title>This Is How You Lose Her - Exp</dc:title>
+        <dc:creator opf:file-as="Diaz, Junot" opf:role="aut">Junot Diaz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-11T16:06:24+00:00</dc:date>
+        <dc:publisher>Penguin Group USA</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">Y6iyuAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781594486425</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <meta content="{&quot;Junot Diaz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-04-28T17:28:21+00:00" name="calibre:timestamp"/>
+        <meta content="This Is How You Lose Her - Exp" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

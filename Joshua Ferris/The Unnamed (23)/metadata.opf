@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd562634-50a5-4257-957e-021cd7354976</dc:identifier>
+        <dc:title>The Unnamed</dc:title>
+        <dc:creator opf:file-as="FERRIS, JOSHUA" opf:role="aut">Joshua Ferris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-01-18T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;em&gt;He was going to lose the house and everything in it.&lt;br&gt;&lt;br&gt;&lt;br&gt;The rare pleasure of a bath, the copper pots hanging above the kitchen island, his family-again he would&lt;/em&gt;&lt;br&gt;&lt;br&gt;&lt;i&gt;lose his family. He stood inside the house and took stock. Everything in it had been taken for granted. How had that happened again? He had promised himself not to take anything for granted and now he couldn't recall the moment that promise had given way to the everyday.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Tim Farnsworth is a handsome, healthy man, aging with the grace of a matinee idol. His wife Jane still loves him, and for all its quiet trials, their marriage is still stronger than most. Despite long hours at the office, he remains passionate about his work, and his partnership at a prestigious &lt;ST1:PLACE w:st="on"&gt;&lt;ST1:CITY w:st="on"&gt;Manhattan   law firm means that the work he does is important. And, even as his daughter Becka retreats behind her guitar, her dreadlocks and her puppy fat, he offers her every one ...</dc:description>
+        <dc:publisher>Little, Brown and Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316078177</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Joshua Ferris&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:26:36+00:00" name="calibre:timestamp"/>
+        <meta content="Unnamed, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

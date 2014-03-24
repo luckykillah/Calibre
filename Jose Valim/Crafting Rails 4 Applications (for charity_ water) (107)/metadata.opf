@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">107</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">562af95c-e524-4774-82c7-9fada43f5813</dc:identifier>
+        <dc:title>Crafting Rails 4 Applications (for charity: water)</dc:title>
+        <dc:creator opf:file-as="Valim, Jose" opf:role="aut">Jose Valim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>The Pragmatic Bookshelf, LLC (10029605)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-937785-55-0</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pragmatic Bookshelf</dc:subject>
+        <meta content="{&quot;Jose Valim&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-07-04T20:58:09+00:00" name="calibre:timestamp"/>
+        <meta content="Crafting Rails 4 Applications (for charity: water)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

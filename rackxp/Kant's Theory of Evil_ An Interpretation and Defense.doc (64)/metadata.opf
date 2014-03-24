@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab6744ec-720f-48f3-8570-8ea83ce62d9a</dc:identifier>
+        <dc:title>Kant’s Theory of Evil: An Interpretation and Defense.doc</dc:title>
+        <dc:creator opf:file-as="rackxp" opf:role="aut">rackxp</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-20T02:29:27+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;rackxp&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:29:27+00:00" name="calibre:timestamp"/>
+        <meta content="Kant’s Theory of Evil: An Interpretation and Defense.doc" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

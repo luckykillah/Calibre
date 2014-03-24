@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58747248-a6e8-4723-9b53-2777defbc797</dc:identifier>
+        <dc:title>Abraham Lincoln: Vampire Hunter</dc:title>
+        <dc:creator opf:file-as="Grahame-Smith, Seth" opf:role="aut">Seth Grahame-Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;Indiana, 1818. Moonlight falls through the dense woods that surround a one-room cabin, where a nine-year-old Abraham Lincoln kneels at his suffering mother's bedside. She's been stricken with something the old-timers call "Milk Sickness.""My baby boy..." she whispers before dying.Only later will the grieving Abe learn that his mother's fatal affliction was actually the work of a vampire.When the truth becomes known to young Lincoln, he writes in his journal, "henceforth my life shall be one of rigorous study and devotion. I shall become a master of mind and body. And this mastery shall have but one purpose..." Gifted with his legendary height, strength, and skill with an ax, Abe sets out on a path of vengeance that will lead him all the way to the White House.While Abraham Lincoln is widely lauded for saving a Union and freeing millions of slaves, his valiant fight against the forces of the undead has remained in the shadows for hundreds of years. That is, until Seth Grahame-Smith stumbled upon The Secret Journal of Abraham Lincoln, and became the first living person to lay eyes on it in more than 140 years.Using the journal as his guide and writing in the grand biographical style of Doris Kearns Goodwin and David McCullough, Seth has reconstructed the true life story of our greatest president for the first time-all while revealing the hidden history behind the Civil War and uncovering the role vampires played in the birth, growth, and near-death of our nation.&lt;/p&gt;</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="EPUBBUD">http|//www.epubbud.com/epubs/G/R/GR6NNSZA/Abraham_Lincoln__Vampire_Hunter.epub</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">X885YAAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781455510184</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Vampires</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Paranormal</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Occult &amp; Supernatural</dc:subject>
+        <meta content="{&quot;Seth Grahame-Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-16T02:35:35+00:00" name="calibre:timestamp"/>
+        <meta content="Abraham Lincoln: Vampire Hunter" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

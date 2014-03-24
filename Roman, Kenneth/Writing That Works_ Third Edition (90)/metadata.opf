@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8493f04b-a7e4-462a-82b8-26d29b1cf05c</dc:identifier>
+        <dc:title>Writing That Works: Third Edition</dc:title>
+        <dc:creator opf:file-as="Raphaelson, Joel" opf:role="aut">Roman, Kenneth</dc:creator>
+        <dc:creator opf:file-as="Raphaelson, Joel" opf:role="aut">Raphaelson, Joel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.64) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-30T16:00:00+00:00</dc:date>
+        <dc:publisher>Harper Collins, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Raphaelson, Joel&quot;: &quot;&quot;, &quot;Roman, Kenneth&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-11-12T00:46:40+00:00" name="calibre:timestamp"/>
+        <meta content="Writing That Works: Third Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

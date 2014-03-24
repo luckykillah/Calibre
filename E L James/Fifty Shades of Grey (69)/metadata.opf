@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5227b7a9-f326-4927-8fb2-3b19df40840c</dc:identifier>
+        <dc:title>Fifty Shades of Grey</dc:title>
+        <dc:creator opf:file-as="James, E L" opf:role="aut">E L James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-25T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;Nominated for Best Romance in the 2011 Goodreads Choice Awards&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;When literature student Anastasia Steele is drafted to interview the successful young entrepreneur Christian Grey for her campus magazine, she finds him attractive, enigmatic and intimidating. Convinced their meeting went badly, she tries to put Grey out of her mind - until he happens to turn up at the out-of-town hardware store where she works part-time.&lt;/p&gt;&lt;p&gt;The unworldly, innocent Ana is shocked to realize she wants this man, and when he warns her to keep her distance it only makes her more desperate to get close to him. Unable to resist Ana's quiet beauty, wit, and independent spirit, Grey admits he wants her - but on his own terms. Shocked yet thrilled by Grey's singular erotic tastes, Ana hesitates. For all the trappings of success - his multinational businesses, his vast wealth, his loving adoptive family - Grey is man tormented by demons and consumed by the need to control. When the couple embarks on a passionate, physical and daring affair, Ana learns more about her own dark desires, as well as the Christian Grey hidden away from public scrutiny&lt;br&gt;Can their relationship transcend physical passion? Will Ana find it in herself to submit to the self-indulgent Master? And if she does, will she still love what she finds?&lt;/p&gt;&lt;p&gt;Erotic, amusing, and deeply moving, the Fifty Shades Trilogy is a tale that will obsess you, possess you, and stay with you forever.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>The Writer's Coffee Shop Publishing House</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1612130283</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781612130286</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/fifty-shades-of-grey-e-l-james/1104280977</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">10818853</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>When literature student Anastasia Steele is drafted to interview the successful young entrepreneur Christian Grey for her campus magazine</dc:subject>
+        <dc:subject>and deeply moving</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>she finds him attractive</dc:subject>
+        <dc:subject>and stay with you forever.</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>enigmatic and intimidating. Convinced their meeting went badly</dc:subject>
+        <dc:subject>the Fifty Shades Trilogy is a tale that will obsess you</dc:subject>
+        <dc:subject>possess you</dc:subject>
+        <dc:subject>she tries to put Grey out of her mind - until he happens to turn up at the out-of-town hardware store where she works part-time. Erotic</dc:subject>
+        <dc:subject>amusing</dc:subject>
+        <meta content="{&quot;E L James&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Fifty Shades" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2012-07-20T02:30:17+00:00" name="calibre:timestamp"/>
+        <meta content="Fifty Shades of Grey" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

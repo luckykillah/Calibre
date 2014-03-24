@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44b80e41-32d6-4565-a5a4-443f481f9a10</dc:identifier>
+        <dc:title>The Brothers Karamazov</dc:title>
+        <dc:creator opf:file-as="Dostoyevsky, Fyodor" opf:role="aut">Fyodor Dostoyevsky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-02-12T05:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Brothers -- Fiction</dc:subject>
+        <dc:subject>Fathers and sons -- Fiction</dc:subject>
+        <dc:subject>Didactic fiction</dc:subject>
+        <dc:subject>Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
+        <meta content="{&quot;Fyodor Dostoyevsky&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-13T05:02:56+00:00" name="calibre:timestamp"/>
+        <meta content="Brothers Karamazov, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

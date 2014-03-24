@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">193</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6122e84e-c8b8-49b3-b695-e81d8af35b3d</dc:identifier>
+        <dc:title>The Great Gatsby</dc:title>
+        <dc:creator opf:file-as="Fitzgerald, Francis Scott" opf:role="aut">Fitzgerald, Francis Scott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-03-13T05:00:00+00:00</dc:date>
+        <dc:description>In 1922, F. Scott Fitzgerald announced his decision to write "something new--something extraordinary and beautiful and simple + intricately patterned." That extraordinary, beautiful, intricately patterned, and above all, simple novel became The Great Gatsby, arguably Fitzgerald&amp;#39;s finest work and certainly the book for which he is best known. A portrait of the Jazz Age in all of its decadence and excess, Gatsby captured the spirit of the author&amp;#39;s generation and earned itself a permanent place in American mythology. Self-made, self-invented millionaire Jay Gatsby embodies some of Fitzgerald&amp;#39;s--and his country&amp;#39;s--most abiding obsessions: money, ambition, greed, and the promise of new beginnings. "Gatsby believed in the green light, the orgiastic future that year by year recedes before us. It eluded us then, but that&amp;#39;s no matter--tomorrow we will run faster, stretch out our arms farther.... And one fine morning--" Gatsby&amp;#39;s rise to glory and eventual fall from grace becomes a kind of cautionary tale about the American Dream.
+
+
+It&amp;#39;s also a love story, of sorts, the narrative of Gatsby&amp;#39;s quixotic passion for Daisy Buchanan. The pair meet five years before the novel begins, when Daisy is a legendary young Louisville beauty and Gatsby an impoverished officer. They fall in love, but while Gatsby serves overseas, Daisy marries the brutal, bullying, but extremely rich Tom Buchanan. After the war, Gatsby devotes himself blindly to the pursuit of wealth by whatever means--and to the pursuit of Daisy, which amounts to the same thing. "Her voice is full of money," Gatsby says admiringly, in one of the novel&amp;#39;s more famous descriptions. His millions made, Gatsby buys a mansion across Long Island Sound from Daisy&amp;#39;s patrician East Egg address, throws lavish parties, and waits for her to appear. When she does, events unfold with all the tragic inevitability of a Greek drama, with detached, cynical neighbor Nick Carraway acting as chorus throughout. Spare, elegantly plotted, and written in crystalline prose, The Great Gatsby is as perfectly satisfying as the best kind of poem.
+
+*  *  *
+
+"Now we have an American masterpiece in its final form: the original crystal has shaped itself into the true diamond. This is the novel as Fitzgerald wished it to be, and so it is what we have dreamed of, sleeping and waking." -- James Dickey
+
+*  *  *
+
+The Great Gatsby is a novel by the American author F. Scott Fitzgerald. First published on April 10, 1925, it is set on Long Island&amp;#39;s North Shore and in New York City during the summer of 1922.
+
+The novel takes place following the First World War. American society enjoyed prosperity during the "roaring" 1920s as the economy soared. At the same time, Prohibition, the ban on the sale and manufacture of alcohol as mandated by the Eighteenth Amendment, made millionaires out of bootleggers. After its republishing in 1945 and 1953, it quickly found a wide readership and is today widely regarded as a paragon of the Great American Novel, and a literary classic. The Great Gatsby has become a standard text in high school and university courses on American literature in countries around the world, and is ranked second in the Modern Library&amp;#39;s lists of the 100 Best Novels of the 20th Century.
+
+--Wikipedia</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Literary</dc:subject>
+        <meta content="{&quot;Fitzgerald, Francis Scott&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-13T05:02:35+00:00" name="calibre:timestamp"/>
+        <meta content="Great Gatsby, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

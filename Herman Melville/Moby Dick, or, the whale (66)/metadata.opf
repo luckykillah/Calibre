@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0b786ee-4685-4739-a901-581ab61b9f28</dc:identifier>
+        <dc:title>Moby Dick, or, the whale</dc:title>
+        <dc:creator opf:file-as="Melville, Herman" opf:role="aut">Herman Melville</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-15T00:50:15+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http|//www.gutenberg.org/ebooks/2701</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Allegories</dc:subject>
+        <dc:subject>Ahab</dc:subject>
+        <dc:subject>Whaling -- Fiction</dc:subject>
+        <dc:subject>Captain (Fictitious character) -- Fiction</dc:subject>
+        <dc:subject>Whales -- Fiction</dc:subject>
+        <dc:subject>Sea stories</dc:subject>
+        <dc:subject>Adventure stories</dc:subject>
+        <dc:subject>Epic literature</dc:subject>
+        <meta content="{&quot;Herman Melville&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:29:54+00:00" name="calibre:timestamp"/>
+        <meta content="Moby Dick, or, the whale" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

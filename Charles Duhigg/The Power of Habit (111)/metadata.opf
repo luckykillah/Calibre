@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">09449875-3c62-4b14-8d81-6ecdb34e0611</dc:identifier>
+        <dc:title>The Power of Habit</dc:title>
+        <dc:creator opf:file-as="Duhigg, Charles" opf:role="aut">Charles Duhigg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-02-28T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;A young woman walks into a laboratory. Over the past two years, she has transformed almost every aspect of her life. She has quit smoking, run a marathon, and been promoted at work. The patterns inside her brain, neurologists discover, have fundamentally changed.&lt;br&gt;&lt;br&gt;Marketers at Procter &amp; Gamble study videos of people making their beds. They are desperately trying to figure out how to sell a new product called Febreze, on track to be one of the biggest flops in company history. Suddenly, one of them detects a nearly imperceptible pattern--and with a slight shift in advertising, Febreze goes on to earn a billion dollars a year.&lt;br&gt;&lt;br&gt;An untested CEO takes over one of the largest companies in America. His first order of business is attacking a single pattern among his employees--how they approach worker safety--and soon the firm, Alcoa, becomes the top performer in the Dow Jones.&lt;br&gt;&lt;br&gt;What do all these people have in common? They achieved success by focusing on the...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-679-60385-6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Charles Duhigg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-07-12T03:26:50+00:00" name="calibre:timestamp"/>
+        <meta content="Power of Habit, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

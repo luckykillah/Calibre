@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">102</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d0a90ba-a986-4570-acaf-4aef39a92d8f</dc:identifier>
+        <dc:title>The Emerald Atlas</dc:title>
+        <dc:creator opf:file-as="Stephens, John" opf:role="aut">John Stephens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-05T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Kate, Michael, and Emma have been in one orphanage after another for the last ten years, passed along like lost baggage.&lt;br&gt;&lt;br&gt;Yet these unwanted children are more remarkable than they could possibly imagine. Ripped from their parents as babies, they are being protected from a horrible evil of devastating power, an evil they know nothing about.&lt;br&gt;&lt;br&gt;Until now.&lt;br&gt;&lt;br&gt;Before long, Kate, Michael, and Emma are on a journey to dangerous and secret corners of the world...a journey of allies and enemies, of magic and mayhem.  And--if an ancient prophesy is correct--what they do can change history, and it is up to them to set things right.&lt;br&gt;&lt;br&gt;&lt;i&gt;The Emerald Atlas&lt;/i&gt; brims with humor and action as it charts Kate, Michael, and Emma's extraordinary adventures through an unforgettable, enchanted world.&lt;br&gt;&lt;br&gt;&lt;i&gt;From the Hardcover edition.&lt;/i&gt;</dc:description>
+        <dc:publisher>Random House Children's Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-375-89955-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;John Stephens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-04-28T17:28:22+00:00" name="calibre:timestamp"/>
+        <meta content="Emerald Atlas, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

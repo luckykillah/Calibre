@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e09abd20-8def-441a-ab0b-03163ab91ea4</dc:identifier>
+        <dc:title>Learn to Program (for charity: water)</dc:title>
+        <dc:creator opf:file-as="Pine, Chris" opf:role="aut">Chris Pine</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>The Pragmatic Bookshelf, LLC (10029605)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-1-934356-36-4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Pragmatic Bookshelf</dc:subject>
+        <meta content="{&quot;Chris Pine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-07-04T20:58:10+00:00" name="calibre:timestamp"/>
+        <meta content="Learn to Program (for charity: water)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

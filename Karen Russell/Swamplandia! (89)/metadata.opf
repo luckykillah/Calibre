@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">89</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a471ca0f-4a48-484c-b870-84626b1bc557</dc:identifier>
+        <dc:title>Swamplandia!</dc:title>
+        <dc:creator opf:file-as="Russell, Karen" opf:role="aut">Karen Russell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.64) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Guest Reviewer: Carl Hiaasen&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;&lt;p&gt;Carl Hiaasen was born and raised in Florida. He is the author of twelve novels, including the bestselling &lt;em&gt;Star Island&lt;/em&gt;, &lt;em&gt;Nature Girl&lt;/em&gt;, &lt;em&gt;Skinny Dip&lt;/em&gt;, &lt;em&gt;Sick Puppy&lt;/em&gt;, and &lt;em&gt;Lucky You&lt;/em&gt;, and three bestselling children’s books: &lt;em&gt;Hoot&lt;/em&gt;, &lt;em&gt;Flush&lt;/em&gt;, and &lt;em&gt;Scat&lt;/em&gt;. He also writes a weekly column for &lt;em&gt;The Miami Herald&lt;/em&gt;. &lt;/p&gt;&lt;p&gt;This was the first time I’ve read Karen Russell’s work, and I was dazzled. It’s very rare, among the tonnage of manuscripts and galleys that land upon one’s desk, to come across a young novelist so inventive and versatile, yet so thoroughly in control. Also, I’m a sucker for any plot line that features man-eating reptiles. &lt;/p&gt;&lt;p&gt;&lt;em&gt;Swamplandia!&lt;/em&gt; is the story of Ava Bigtree, a 12-year-old alligator wrestler who embarks on an improbable journey through the mangrove wilderness of southwest Florida in search of a lost sister. Young Osceola has run off with a ghost-figure named Louis Thanksgiving, and only Ava knows where to look for them, dreading what she might find. Passages of this fine novel call to mind Conrad, Garcia Marquez and even – for those who have kids – Judy Blume. There’s not a forgettable character in the cast, from Ava’s flamboyant father, Chief Bigtree, who runs the family’s failing tourist trap, to the bedraggled and cryptic Bird Man, who guides Ava on her harrowing trip. &lt;/p&gt;&lt;p&gt;Having spent many days in the Ten Thousand Islands, I was enchanted by Russell’s dream-like descriptions of the tangled and serpentine creeks, the funky and exotic flora, the long stare of circling buzzards. Her prose is both shimmering and stark: “A huge hole in the middle of the ceiling opened onto a clear night sky; it looked as if some great predator had peeled the thatched roof back, sniffed once and lost interest.” &lt;/p&gt;&lt;p&gt;Or the way she describes a “cauldron” of moths with “sapphire-tipped wings, a sky-flood of them…They had fixed wings like sharp little bones, these moths, and it was astonishingly sad when you accidentally killed one.” &lt;/p&gt;&lt;p&gt;I can’t recall the last time I came across a character who shines as brightly as Ava, or a first novel that made such a rich and lasting impression. &lt;/p&gt;&lt;h3&gt;From Booklist&lt;/h3&gt;&lt;p&gt;&lt;em&gt;Starred Review&lt;/em&gt; Russell’s lavishly imagined and spectacularly crafted first novel sprang from a story in her highly praised collection, St. Lucy’s Home for Girls Raised by Wolves (2006). Swamplandia! is a shabby tourist attraction deep in the Everglades, owned by the Bigtree clan of alligator wrestlers. When Hilola, their star performer, dies, her husband and children lose their moorings, and Swamplandia! itself is endangered as audiences dwindle. The Chief leaves. Brother Kiwi, 17, sneaks off to work at the World of Darkness, a new mainland amusement park featuring the “rings of hell.” Otherworldly sister Osceola, 16, vanishes after falling in love with the ghost of a young man who died while working for the ill-fated Dredge and Fill Campaign in the 1930s. It’s up to Ava, 13, to find her sister, and her odyssey to the Underworld is mythic, spellbinding, and terrifying. Russell’s powers reside in her profound knowledge of the great imperiled swamp, from its alligators and insects, floating orchids and invasive “strangler” melaleuca trees to the tragic history of its massacred indigenous people and wildlife. Ravishing, elegiac, funny, and brilliantly inquisitive, Russell’s archetypal swamp saga tells a mystical yet rooted tale of three innocents who come of age through trials of water, fire, and air. --Donna Seaman &lt;/p&gt;</dc:description>
+        <dc:publisher>Knopf</dc:publisher>
+        <dc:identifier opf:scheme="GOOGLE">EuZC5vwm-NgC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780701186029</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0307276686</dc:identifier>
+        <dc:identifier opf:scheme="FF">r/karen-russell/swamplandia</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">w/swamplandia-karen-russell/1100037851</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">10266884</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>NYT Top 10 of 2011</dc:subject>
+        <dc:subject>Amazon Top Books of 2011</dc:subject>
+        <meta content="{&quot;Karen Russell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2011-12-23T22:23:55+00:00" name="calibre:timestamp"/>
+        <meta content="Swamplandia!" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

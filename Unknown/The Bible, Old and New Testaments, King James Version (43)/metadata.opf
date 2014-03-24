@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1414f11-0151-44ca-9912-555aacc2d1ee</dc:identifier>
+        <dc:title>The Bible, Old and New Testaments, King James Version</dc:title>
+        <dc:creator opf:file-as="Unknown" opf:role="aut">Unknown</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-03T15:25:55+00:00</dc:date>
+        <dc:identifier opf:scheme="URI">http|//www.gutenberg.org/ebooks/10</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Religion</dc:subject>
+        <meta content="{&quot;Unknown&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:28:31+00:00" name="calibre:timestamp"/>
+        <meta content="Bible, Old and New Testaments, King James Version, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

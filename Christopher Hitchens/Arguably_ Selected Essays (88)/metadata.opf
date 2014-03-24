@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b5587de-178d-451d-a996-46d014fabae8</dc:identifier>
+        <dc:title>Arguably: Selected Essays</dc:title>
+        <dc:creator opf:file-as="Hitchens, Christopher" opf:role="aut">Christopher Hitchens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-06T00:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Praise for Christopher Hitchens: &lt;br /&gt;&lt;/strong&gt;"Whether he's dodging bullets in Sarajevo, dissing Bill Clinton (with whom he says he shared a girlfriend at Oxford), or explaining his switch from leftist to Iraq war supporter, this foreign correspondent, pundit, and bon vivant makes for an enlightening companion."&lt;br /&gt;&lt;em&gt;— &lt;/em&gt;Kyle Smith&lt;em&gt;, People Magazine&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;"A conversation with Hitchens mimics a trip through Wikipedia. Every thought is hyperlinked, with one subject slaloming into the next in ways baffling and enlightening, confounding and profound." &lt;br /&gt;&lt;em&gt;— Washington Post&lt;br /&gt;&lt;/em&gt;&lt;br /&gt;"A great polemicist compellingly, effectively, sometimes bullyingly, attacks all gods and religions."* &lt;br /&gt;— Globe and Mail&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Electric and electrifying . . . high-spirited. . . . [Hitchens] has a mind like a Swiss Army knife, ready to carve up or unbolt an opponent's arguments with a flick of the wrist. . . . The business and pleasure sides of Mr. Hitchens's personality can make him seem, whether you agree with him or not, among the most purely alive people on the planet." &lt;br /&gt;&lt;/em&gt;— New York Times&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"Few writers can match his cerebral pyrotechnics. Fewer still can emulate his punch as an intellectual character assassin. It is hard not to admire the sheer virtuosity of his prose, yet it is rare to mistake it for wisdom or good judgment. With Hitchens one simply goes along for the ride. The destination hardly matters." &lt;br /&gt;&lt;/em&gt;— Financial Times&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;"[Hitchens] is effortlessly witty and entertaining as well as utterly rational. . . . He offers the open-minded plenty to think about." &lt;br /&gt;&lt;/em&gt;— Booklist (starred review)&lt;br /&gt;*&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;From one of the most admired public intellectuals of our time, and a multi-award winning and #1 bestselling author, comes a collection of his most important and controversial essays on the theme of culture and politics and how the two relate. &lt;/p&gt;</dc:description>
+        <dc:publisher>Signal</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0771041411</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">1JiFHTlShDUC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780771041464</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">12618752</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>NYT Top 10 of 2011</dc:subject>
+        <meta content="{&quot;Christopher Hitchens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="0101-01-01T10:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Arguably: Selected Essays" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">83</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c44d6774-ac6c-4892-a916-b3f037215292</dc:identifier>
+        <dc:title>Incognito: The Secret Lives of the Brain</dc:title>
+        <dc:creator opf:file-as="Eagleman, David" opf:role="aut">David Eagleman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.64) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-01T10:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;“A stunning exploration of the 'we'_ &lt;em&gt;behind the 'I'. Eagleman reveals, with his typical grace and eloquence, all the neural magic tricks behind the cognitive illusion we call reality.” –Jonah Lehrer,  author of &lt;/em&gt;How We Decide_  &lt;/p&gt;&lt;p&gt;“Eagleman has a talent for testing the untestable, for taking seemingly sophomoric notions and using them to nail down the slippery stuff of consciousness.” –_New Yorker_   &lt;/p&gt;&lt;p&gt;“Your mind is an elaborate trick, and mastermind David Eagleman explains how the trick works with great lucidity and amazement. Your mind will thank you.” –Kevin Kelly, &lt;em&gt;Wired Magazine&lt;/em&gt;   &lt;/p&gt;&lt;p&gt;“A fun read by a smart person for smart people…it will attract a new generation to ponder their inner workings.” –_New Scientist  &lt;/p&gt;&lt;p&gt;&lt;em&gt;“Written in clear, precise language, the book is sure to appeal to readers with an interest in psychology and the human mind, but it will also please people who just want to know, with a little more clarity, what is going on inside their own skulls.”&lt;/em&gt; –Booklist  &lt;br&gt;_&lt;br&gt;“Original and provocative…Incognito is a smart, captivating book that will give you a prefrontal workout.” _–Nature  &lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;em&gt;“Incognito is fun to read, full of neat factoids and clever experiments...Eagleman says he’s looking to do for neuroscience what Carl Sagan did for astrophysics, and he’s already on his way.” –&lt;/em&gt;Texas Monthly_ _  &lt;p&gt;&lt;/p&gt;&lt;p&gt;_"Although &lt;em&gt;Incognito&lt;/em&gt; is face-paced, mind-bending stuff, it's a book for regular folks. Eagleman does a brilliant job refining heavy science into a compelling read. He is a gifted writer." -_Houston Chronicle_   &lt;/p&gt;&lt;p&gt;“A popularizer of impressive gusto…[Eagleman] aims, grandly, to do for the study of the mind what Copernicus did for the study of the stars.” –_N... _&lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;If the conscious mind—the part you consider to be you—is just the tip of the iceberg, what is the rest doing?   &lt;/p&gt;&lt;p&gt;In this sparkling and provocative new book, the renowned neuroscientist David Eagleman navigates the depths of the subconscious brain to illuminate surprising mysteries: Why can your foot move halfway to the brake pedal before you become consciously aware of danger ahead? Why do you hear your name being mentioned in a conversation that you didn’t think you were listening to? What do Ulysses and the credit crunch have in common? Why did Thomas Edison electrocute an elephant in 1916? Why are people whose names begin with J more likely to marry other people whose names begin with J? Why is it so difficult to keep a secret? And how is it possible to get angry at yourself—who, exactly, is mad at whom?  &lt;/p&gt;&lt;p&gt;Taking in brain damage, plane spotting, dating, drugs, beauty, infidelity, synesthesia, criminal law, artificial intelligence, and visual illusions, &lt;em&gt;Incognito&lt;/em&gt; is a thrilling subsurface exploration of the mind and all its contradictions.&lt;/p&gt;&lt;p&gt;&lt;em&gt;From the Hardcover edition.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>PANTHEON</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B004J4WK9W</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">nkPj3dNFYwoC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307377333</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">Incognito/David-Eagleman/e/9780307379788</dc:identifier>
+        <dc:identifier opf:scheme="OVERDRIVE">4e714739-fa2d-4d8c-ad7d-52e1f9f5f48b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Amazon Top Books of 2011.Nonfiction.Science</dc:subject>
+        <meta content="{&quot;David Eagleman&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="0101-01-01T10:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Incognito: The Secret Lives of the Brain" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

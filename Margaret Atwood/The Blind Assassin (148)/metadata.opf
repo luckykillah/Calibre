@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">265d429b-e22a-442e-aa9d-d61d47f50cd5</dc:identifier>
+        <dc:title>The Blind Assassin</dc:title>
+        <dc:creator opf:file-as="Atwood, Margaret" opf:role="aut">Margaret Atwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-04-28T22:00:00+00:00</dc:date>
+        <dc:publisher>McClelland &amp; Stewart</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Margaret Atwood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-09-20T04:44:06+00:00" name="calibre:timestamp"/>
+        <meta content="Blind Assassin, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

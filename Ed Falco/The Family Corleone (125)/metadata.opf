@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">125</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db3de8ba-cf8c-4017-88b4-28e6271ef890</dc:identifier>
+        <dc:title>The Family Corleone</dc:title>
+        <dc:creator opf:file-as="FALCO, ED" opf:role="aut">Ed Falco</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-08T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"What works well is Falco's depiction of Vito Corleone, which captures both the cool reserve of young Vito and the insight he demonstrates as Don....A worthy addition to the lurid world of the Five Families."-- Kirkus &lt;/p&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;"Channels the original so well that readers will be vividly reminded of Puzo's strengths...His moments of blam-blam-blam are ace. Best of all, he supplies a grand set-piece finale--a parade--that will have readers dreaming of just one more movie." (&lt;strong&gt;&lt;em&gt;Booklist&lt;/em&gt;&lt;/strong&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;"If you have any knowledge of &lt;em&gt;The Godfather&lt;/em&gt; you will love this book. It's a perfect addition to the Corleone saga...When you see this book, buy it. It is written with love for the characters and respect for Puzo. It is also a story that won't quit and I couldn't stop reading. Falco brought me back to a world I love and did it perfectly. As far as I'm concerned this is THE BOOK to buy in 2012." (&lt;strong&gt;&lt;em&gt;Crime Spree Magazine&lt;/em&gt;&lt;/strong&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;"What works well is Falco's depiction of Vito Corleone, which captures both the cool reserve of young Vito and the insight he demonstrates as Don....A worthy addition to the lurid world of the Five Families." (&lt;strong&gt;&lt;em&gt;Kirkus&lt;/em&gt;&lt;/strong&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;"Falco has captured Puzo's rich prose style and eye for detail...a solid piece of work." (&lt;strong&gt;&lt;em&gt;The Washington Post&lt;/em&gt;&lt;/strong&gt; )&lt;br&gt;&lt;/p&gt;&lt;p&gt;"Falco ably exploits the tension between civility and brutality. The result is good, messy fun." (&lt;strong&gt;&lt;em&gt;The Guardian&lt;/em&gt; (UK)&lt;/strong&gt; ) &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B006VFLINQ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781455521616</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ed Falco&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-08-08T03:17:51+00:00" name="calibre:timestamp"/>
+        <meta content="Family Corleone, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

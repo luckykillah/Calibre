@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41db5ea5-6041-4ab3-9e9a-9dfca4859019</dc:identifier>
+        <dc:title>Jacqueline Kennedy: Historic Conversations on Life With John F. Kennedy</dc:title>
+        <dc:creator opf:file-as="Kennedy, Caroline &amp; Beschloss, Michael" opf:role="aut">Caroline Kennedy</dc:creator>
+        <dc:creator opf:file-as="Kennedy, Caroline &amp; Beschloss, Michael" opf:role="aut">Michael Beschloss</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-14T04:00:00+00:00</dc:date>
+        <dc:description>In seven never-before-heard interviews conducted in 1964 with Arthur Schlesinger, Jr. and sealed for half a century, Jacqueline Kennedy tells her story in her own words.</dc:description>
+        <dc:publisher>Hyperion</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781401324254</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Michael Beschloss&quot;: &quot;&quot;, &quot;Caroline Kennedy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-04-28T17:28:22+00:00" name="calibre:timestamp"/>
+        <meta content="Jacqueline Kennedy: Historic Conversations on Life With John F. Kennedy" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

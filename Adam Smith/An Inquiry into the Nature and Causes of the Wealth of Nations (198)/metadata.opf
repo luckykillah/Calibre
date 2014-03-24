@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9ebf3df-529e-4b12-b493-b70296701e28</dc:identifier>
+        <dc:title>An Inquiry into the Nature and Causes of the Wealth of Nations</dc:title>
+        <dc:creator opf:file-as="Smith, Adam" opf:role="aut">Adam Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-06-01T04:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Economics</dc:subject>
+        <meta content="{&quot;Adam Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-13T05:02:55+00:00" name="calibre:timestamp"/>
+        <meta content="Inquiry into the Nature and Causes of the Wealth of Nations, An" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

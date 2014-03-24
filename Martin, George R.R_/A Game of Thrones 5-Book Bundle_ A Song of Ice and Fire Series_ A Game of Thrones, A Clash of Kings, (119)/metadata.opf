@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">89235fe8-93f9-475d-867c-e9b515feb2cf</dc:identifier>
+        <dc:title>A Game of Thrones 5-Book Bundle: A Song of Ice and Fire Series: A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons (Song of Ice &amp; Fire)</dc:title>
+        <dc:creator opf:file-as="Martin, George R.R." opf:role="aut">Martin, George R.R.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-10T04:00:00+00:00</dc:date>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00957T6X6</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780345535535</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Martin, George R.R.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:49+00:00" name="calibre:timestamp"/>
+        <meta content="Game of Thrones 5-Book Bundle: A Song of Ice and Fire Series: A Game of Thrones, A Clash of Kings, A Storm of Swords, A Feast for Crows, and A Dance with Dragons (Song of Ice &amp; Fire), A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

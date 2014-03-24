@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fed1a453-3c3b-4dcb-b16e-1fc6ebcee13f</dc:identifier>
+        <dc:title>Lady Oracle</dc:title>
+        <dc:creator opf:file-as="Atwood, Margaret" opf:role="aut">Margaret Atwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-04-19T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;An original and compelling work in which Margaret Atwood passes one woman's bizarre life through the prism of her unique literary vision. The shy, awkward wife of a perpetual radical, Joan Foster is a formerly obese woman whose delicate equilibrium is threatened by the fact that the several lives she has lived separately and secretly are coming together and will be exposed. She is newly and notoriously famous as a bestselling author; she writes gothic novels under a nom de plume; she is having a hidden affair. Love, fear, understanding, suspense, sensuality, and humour -- there is hardly an emotional current that is not touched in &lt;i&gt;Lady Oracle&lt;/i&gt;, and with a depth, vitality, and wit that are rare in any time.&lt;br&gt;&lt;br&gt;&lt;i&gt;From the Hardcover edition.&lt;/i&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>McClelland &amp; Stewart</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781551994918</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Margaret Atwood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-09-20T04:44:05+00:00" name="calibre:timestamp"/>
+        <meta content="Lady Oracle" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

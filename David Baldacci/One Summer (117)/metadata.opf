@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c58108f5-4467-4eaf-91c0-573e3aa708a4</dc:identifier>
+        <dc:title>One Summer</dc:title>
+        <dc:creator opf:file-as="BALDACCI, DAVID" opf:role="aut">David Baldacci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-06-14T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;From #1 &lt;i  &gt;New York Times&lt;/i&gt; bestselling author David Baldacci comes a moving family drama about learning to love again after heartbreak and loss.&lt;/br&gt;&lt;/br&gt; &lt;b  &gt;ONE SUMMER&lt;/b&gt;&lt;/br&gt;&lt;/br&gt; It's almost Christmas, but there is no joy in the house of terminally ill Jack and his family. With only a short time left to live, he spends his last days preparing to say goodbye to his devoted wife, Lizzie, and their three children. Then, unthinkably, tragedy strikes again: Lizzie is killed in a car accident. With no one able to care for them, the children are separated from each other and sent to live with family members around the country. Just when all seems lost, Jack begins to recover in a miraculous turn of events. He rises from what should have been his deathbed, determined to bring his fractured family back together. Struggling to rebuild their lives after Lizzie's death, he reunites everyone at Lizzie's childhood home on the oceanfront in South Carolina. And there, over one...</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780446583176</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>FIC000000</dc:subject>
+        <meta content="{&quot;David Baldacci&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:49+00:00" name="calibre:timestamp"/>
+        <meta content="One Summer" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

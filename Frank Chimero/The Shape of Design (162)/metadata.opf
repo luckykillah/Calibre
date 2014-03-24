@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e49c0fa-c54b-487b-a066-c9963df09753</dc:identifier>
+        <dc:title>The Shape of Design</dc:title>
+        <dc:creator opf:file-as="Chimero, Frank" opf:role="aut">Frank Chimero</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-01T04:00:00+00:00</dc:date>
+        <dc:publisher>Likemind</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780985472214</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>DESIGN / Graphic Arts / General</dc:subject>
+        <meta content="{&quot;Frank Chimero&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-10-28T01:53:05+00:00" name="calibre:timestamp"/>
+        <meta content="Shape of Design, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

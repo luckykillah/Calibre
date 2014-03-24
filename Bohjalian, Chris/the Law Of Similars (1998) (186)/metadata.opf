@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e25a4140-a64b-4587-b618-6534456752f3</dc:identifier>
+        <dc:title>the Law Of Similars (1998)</dc:title>
+        <dc:creator opf:file-as="Chris, Bohjalian," opf:role="aut">Bohjalian, Chris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-21T23:10:18+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Bohjalian, Chris&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-05T03:51:17+00:00" name="calibre:timestamp"/>
+        <meta content="the Law Of Similars (1998)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

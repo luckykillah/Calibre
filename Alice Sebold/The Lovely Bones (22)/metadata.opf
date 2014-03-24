@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46be25a1-0520-4ed4-b1b9-78d97e026b5e</dc:identifier>
+        <dc:title>The Lovely Bones</dc:title>
+        <dc:creator opf:file-as="SEBOLD, ALICE" opf:role="aut">Alice Sebold</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-08-07T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;This deluxe trade paperback edition of Alice Sebold's modern classic features French flaps and rough-cut pages.&lt;br&gt;&lt;br&gt;Once in a generation a novel comes along that taps a vein of universal human experience, resonating with readers of all ages. &lt;i&gt;The Lovely Bones&lt;/i&gt; is such a book - a phenomenal #1 bestseller celebrated at once for its narrative artistry, its luminous clarity of emotion, and its astoniishing power to lay claim to the hearts of millions of readers around the world.&lt;br&gt;&lt;br&gt;&lt;i&gt;"My name was Salmon, like the fish; first name, Susie. I was fourteen when I was murdered on December 6, 1973."&lt;/i&gt;&lt;br&gt;&lt;br&gt;     So begins the story of Susie Salmon, who is adjusting to her new home in heaven, a place that is not at all what she expected, even as she is watching life on eath continue without her - her friends trading rumors about her disappearance, her killer trying to cover his tracks, her grief-stricken family unraveling.&lt;br&gt;&lt;br&gt;     Out of unspeakable traged and loss, &lt;i&gt;T...</dc:description>
+        <dc:publisher>Little, Brown and Company</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780759527737</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>FIC025000</dc:subject>
+        <meta content="{&quot;Alice Sebold&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:26:36+00:00" name="calibre:timestamp"/>
+        <meta content="Lovely Bones, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

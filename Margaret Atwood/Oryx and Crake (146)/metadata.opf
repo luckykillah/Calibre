@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e11e0681-1618-49e5-9974-ebbadde56465</dc:identifier>
+        <dc:title>Oryx and Crake</dc:title>
+        <dc:creator opf:file-as="Atwood, Margaret" opf:role="aut">Margaret Atwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:publisher>Doubleday</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">79f2e255-4bd6-43fe-ae2b-6efe3667c68b</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Margaret Atwood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-09-20T04:44:06+00:00" name="calibre:timestamp"/>
+        <meta content="Oryx and Crake" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

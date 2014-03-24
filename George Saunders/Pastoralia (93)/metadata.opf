@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2da11b99-fe0f-438d-b806-aac8aea444ba</dc:identifier>
+        <dc:title>Pastoralia</dc:title>
+        <dc:creator opf:file-as="Saunders, George" opf:role="aut">George Saunders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-02-22T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Saunders is an astoundingly tuned voice - graceful, dark, authentic and funny - telling just the kind of stories we need to get us through these times' Thomas PynchonIn PASTORALIA elements of contemporary life are twisted, merged and amplified into a slightly skewed version of modern America. A couple live and work in a caveman theme-park, where speaking is an instantly punishable offence. A born loser attends a self-help seminar where he is encouraged to rid himself of all the people who are 'crapping in your oatmeal'. And a male exotic dancer and his family are terrorised by their decomposing aunt who visits them with a solemn message from beyond the grave. With an uncanny combination of deadpan naturalism and uproarious humour, George Saunders creates a world that is both indelibly original and yet hauntingly familiar ...</dc:description>
+        <dc:publisher>Bloomsbury Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;George Saunders&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-02-22T07:02:15+00:00" name="calibre:timestamp"/>
+        <meta content="Pastoralia" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

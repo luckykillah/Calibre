@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">104</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be950f25-893e-4955-9815-640f33e965d1</dc:identifier>
+        <dc:title>User Guide</dc:title>
+        <dc:creator opf:file-as="Sony Corporation" opf:role="aut">Sony Corporation</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-28T04:00:00+00:00</dc:date>
+        <dc:publisher>Sony Corporation</dc:publisher>
+        <dc:identifier opf:scheme="SONYBOOKID">CBUK125EP00A105S</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Sony Corporation&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-04-28T17:28:23+00:00" name="calibre:timestamp"/>
+        <meta content="User Guide" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

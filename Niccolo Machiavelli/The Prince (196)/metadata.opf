@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">196</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e52c27e-f53c-4ec0-8d35-8a2d4f33d42d</dc:identifier>
+        <dc:title>The Prince</dc:title>
+        <dc:creator opf:file-as="Machiavelli, Niccolò" opf:role="aut">Niccolò Machiavelli</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-11T05:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>Political ethics -- Early works to 1800</dc:subject>
+        <dc:subject>State</dc:subject>
+        <dc:subject>The -- Early works to 1800</dc:subject>
+        <dc:subject>Political science -- Philosophy -- Early works to 1800</dc:subject>
+        <meta content="{&quot;Niccolò Machiavelli&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-13T05:02:55+00:00" name="calibre:timestamp"/>
+        <meta content="Prince, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

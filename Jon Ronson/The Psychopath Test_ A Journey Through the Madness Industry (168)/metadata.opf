@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29d3afbe-93af-4e17-9832-848cb6a234fa</dc:identifier>
+        <dc:title>The Psychopath Test: A Journey Through the Madness Industry</dc:title>
+        <dc:creator opf:file-as="Ronson, Jon" opf:role="aut">Jon Ronson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-12T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;In this madcap journey, a bestselling journalist investigates psychopaths and the industry of doctors, scientists, and everyone else who studies them. &lt;/strong&gt;   &lt;/p&gt;&lt;p&gt;&lt;em&gt;The Psychopath Test&lt;/em&gt; is a fascinating journey through the minds of madness. Jon Ronson's exploration of a potential hoax being played on the world's top neurologists takes him, unexpectedly, into the heart of the madness industry. An influential psychologist who is convinced that many important CEOs and politicians are, in fact, psychopaths teaches Ronson how to spot these high-flying individuals by looking out for little telltale verbal and nonverbal clues. And so Ronson, armed with his new psychopath-spotting abilities, enters the corridors of power. He spends time with a death-squad leader institutionalized for mortgage fraud in Coxsackie, New York; a legendary CEO whose psychopathy has been speculated about in the press; and a patient in an asylum for the criminally insane who insists he's sane and certainly not a psychopath.   &lt;/p&gt;&lt;p&gt;Ronson not only solves the mystery of the hoax but also discovers, disturbingly, that sometimes the personalities at the helm of the madness industry are, with their drives and obsessions, as mad in their own way as those they study. And that relatively ordinary people are, more and more, defined by their maddest edges. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Jon Ronson&lt;/strong&gt; is a writer and documentary filmmaker. His books &lt;em&gt;Them: Adventures with Extremists&lt;/em&gt; and &lt;em&gt;The Men Who Stare at Goats&lt;/em&gt; were both international bestsellers. &lt;em&gt;The Men Who Stare at Goats&lt;/em&gt; was released as a major motion picture in 2009, starring George Clooney. Ronson lives in London. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Group USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594488016</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Psychology</dc:subject>
+        <dc:subject>Biography &amp; Autobiography</dc:subject>
+        <dc:subject>Social Scientists &amp; Psychologists</dc:subject>
+        <dc:subject>Psychopathology</dc:subject>
+        <dc:subject>Sociology</dc:subject>
+        <dc:subject>Popular Culture.; Bisacsh</dc:subject>
+        <dc:subject>Social Science</dc:subject>
+        <dc:subject>Popular Culture</dc:subject>
+        <dc:subject>Psychopaths</dc:subject>
+        <dc:subject>Mental Illness</dc:subject>
+        <dc:subject>Social Psychology</dc:subject>
+        <dc:subject>History.; Bisacsh</dc:subject>
+        <dc:subject>History</dc:subject>
+        <meta content="{&quot;Jon Ronson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-12-22T19:39:42+00:00" name="calibre:timestamp"/>
+        <meta content="Psychopath Test: A Journey Through the Madness Industry, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

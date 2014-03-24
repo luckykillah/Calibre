@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">153</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7f9ac739-aa7d-4910-b098-bf98c87a3c55</dc:identifier>
+        <dc:title>The Secret Life of Bees</dc:title>
+        <dc:creator opf:file-as="Kidd, Sue Monk" opf:role="aut">Sue Monk Kidd</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Sue Monk Kidd's ravishing debut novel has stolen the hearts of reviewers and readers alike with its strong, assured voice. Set in South Carolina in 1964, The Secret Life of Bees tells the story of Lily Owens, whose life has been shaped around the blurred memory of the afternoon her mother was killed. When Lily's fierce-hearted "stand-in mother," Rosaleen, insults three of the town's fiercest racists, Lily decides they should both escape to Tiburon, South Carolina&amp;#8212;a town that holds the secret to her mother's past. There they are taken in by an eccentric trio of black beekeeping sisters who introduce Lily to a mesmerizing world of bees, honey, and the Black Madonna who presides over their household. This is a remarkable story about divine female power and the transforming power of love&amp;#8212;a story that women will share and pass on to their daughters for years to come.</dc:description>
+        <dc:publisher>Penguin Group USA, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Sue Monk Kidd&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-09-20T04:46:54+00:00" name="calibre:timestamp"/>
+        <meta content="Secret Life of Bees, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

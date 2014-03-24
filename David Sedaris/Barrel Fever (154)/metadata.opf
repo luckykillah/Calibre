@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1d35e51f-1504-4dc4-8689-07b8e0720985</dc:identifier>
+        <dc:title>Barrel Fever</dc:title>
+        <dc:creator opf:file-as="Sedaris, David" opf:role="aut">David Sedaris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-01-02T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Review&lt;/h3&gt;&lt;p&gt;'I don't very often find myself moved by a book to emit loud noises in public, but when I first read David Sedaris's essays and short stories, they made me laugh so hard I had to stop taking them on the tube. All his collections are good but 'Barrel Fever' is the best' - Sarah Waters, Saturday Guardian 'A satirical brazenness that holds up next to Twain and Nathaneal West' - New Yorker 'David and Amy Sedaris have a deadpan delivery as ironic as the words they read. The two of them create a nuclear barrage of humour you could never replicate by reading this material on your own' - Boston Globe &lt;/p&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;David Sedaris's readings on National Public Radio made him one of US radio's most popular storytellers. With pitch-perfect sarcasm mingled with an underlying empathy, this collection of his best stories captures the essence of our secret preoccupations and delusions. Barrel Fever is like a blind date with modern life, and anything can happen. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Indigo</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316779401</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Short Stories (Single Author)</dc:subject>
+        <dc:subject>Short Stories</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Form</dc:subject>
+        <dc:subject>Humorous</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <meta content="{&quot;David Sedaris&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-09-20T04:47:14+00:00" name="calibre:timestamp"/>
+        <meta content="Barrel Fever" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">914e0556-9284-44cb-8229-84b1eed127c9</dc:identifier>
+        <dc:title>May Cause Miracles</dc:title>
+        <dc:creator opf:file-as="Bernstein, Gabrielle" opf:role="aut">Gabrielle Bernstein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-01T05:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;&lt;b&gt;&lt;i&gt;New York Times&lt;/i&gt; Bestseller!&lt;br&gt;&lt;br&gt;From the popular and exciting author of &lt;i&gt;Spirit Junkie&lt;/i&gt; and &lt;i&gt;Add More ~Ing to Your Life&lt;/i&gt; comes this practical and fun 40-day guidebook of subtle shifts for radical change and unlimited happiness. &lt;/b&gt;&lt;br&gt;&lt;/b&gt;&lt;br&gt;Are you ready to work miracles? Gabrielle Bernstein believes that simple, consistent shifts in our thinking and actions can lead to the miraculous in all aspects of our daily lives, including our relationships, finances, bodies, and self-image. In this inspiring guide, Gabrielle offers an exciting plan for releasing fear and allowing gratitude, forgiveness, and love to flow through us without fail. All of which, ultimately, will lead to breathtaking lives of abundance, acceptance, appreciation, and happiness. With &lt;i&gt;May Cause Miracles&lt;/i&gt;, readers can expect incredible transformation in 40 powerful days: simply by adding up subtle shifts to create miraculous change.&lt;br&gt;&lt;br&gt;&lt;i&gt;From the Hardcover edition.&lt;/i&gt;&lt;/p&gt;</dc:description>
+        <dc:publisher>Crown Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-307-98694-8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Gabrielle Bernstein&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-12-24T16:24:43+00:00" name="calibre:timestamp"/>
+        <meta content="May Cause Miracles" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

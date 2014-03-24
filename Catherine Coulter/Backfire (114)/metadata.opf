@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8101fe82-ada2-481f-a71b-461913547901</dc:identifier>
+        <dc:title>Backfire</dc:title>
+        <dc:creator opf:file-as="Coulter, Catherine" opf:role="aut">Catherine Coulter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-10T08:09:54+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span lang="EN-US"&gt;San Francisco Judge Ramsey Hunt, longtime
+friend to FBI agents Lacey Sherlock and Dillon Savich, is presiding over the
+trial of Clive and Cindy Cahill – accused in a string of murders – when the
+proceedings take a radical turn. Federal prosecutor Mickey O'Rourke, known for
+his relentless style, becomes suddenly tentative in his opening statement,
+leading Hunt to suspect he’s been threatened – suspicions that are all but
+confirmed when Hunt is shot in the back.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p class="MsoNormal"&gt;&lt;span lang="EN-US"&gt;Savich and Sherlock receive news of the
+attack as an ominous note is delivered to Savich at the Hoover Building: YOU
+DESERVE THIS FOR WHAT YOU DID.  Security tapes fail to reveal who
+delivered the tapes.  Who is behind the shooting of Judge Ramsey Hunt?
+ Who sent the note to Savich? And what does it all mean?  Savich and
+Sherlock race to San Francisco to find out…watching their backs all the while.&lt;/span&gt;&lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Group, USA</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781101587324</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Contemporary romantic suspense</dc:subject>
+        <meta content="{&quot;Catherine Coulter&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="FBI Suspense Thrillers" name="calibre:series"/>
+        <meta content="16" name="calibre:series_index"/>
+        <meta content="2013-08-08T03:17:47+00:00" name="calibre:timestamp"/>
+        <meta content="Backfire" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

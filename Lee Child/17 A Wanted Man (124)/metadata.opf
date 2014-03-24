@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">124</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e77594f1-56a6-4c5b-875b-e9b38efdbe71</dc:identifier>
+        <dc:title>17 A Wanted Man</dc:title>
+        <dc:creator opf:file-as="Child, Lee" opf:role="aut">Lee Child</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-29T22:00:00+00:00</dc:date>
+        <dc:publisher>Random House UK</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781409043560</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Lee Child&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Jack Reacher" name="calibre:series"/>
+        <meta content="17" name="calibre:series_index"/>
+        <meta content="2013-08-08T03:17:51+00:00" name="calibre:timestamp"/>
+        <meta content="17 A Wanted Man" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

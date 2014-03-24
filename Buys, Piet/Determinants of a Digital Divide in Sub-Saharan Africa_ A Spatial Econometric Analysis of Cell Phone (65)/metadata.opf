@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9322ec7-846f-4544-af74-7c095708eebe</dc:identifier>
+        <dc:title>Determinants of a Digital Divide in Sub-Saharan Africa: A Spatial Econometric Analysis of Cell Phone Coverage</dc:title>
+        <dc:creator opf:file-as="Piet, Buys, &amp; Susmita, Dasgupta, &amp; S., Thomas, Timothy &amp; David, Wheeler," opf:role="aut">Buys, Piet</dc:creator>
+        <dc:creator opf:file-as="Piet, Buys, &amp; Susmita, Dasgupta, &amp; S., Thomas, Timothy &amp; David, Wheeler," opf:role="aut">Dasgupta, Susmita</dc:creator>
+        <dc:creator opf:file-as="Piet, Buys, &amp; Susmita, Dasgupta, &amp; S., Thomas, Timothy &amp; David, Wheeler," opf:role="aut">Thomas, Timothy S.</dc:creator>
+        <dc:creator opf:file-as="Piet, Buys, &amp; Susmita, Dasgupta, &amp; S., Thomas, Timothy &amp; David, Wheeler," opf:role="aut">Wheeler, David</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-16T21:16:08+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Dasgupta, Susmita&quot;: &quot;&quot;, &quot;Buys, Piet&quot;: &quot;&quot;, &quot;Wheeler, David&quot;: &quot;&quot;, &quot;Thomas, Timothy S.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:29:34+00:00" name="calibre:timestamp"/>
+        <meta content="Determinants of a Digital Divide in Sub-Saharan Africa: A Spatial Econometric Analysis of Cell Phone Coverage" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

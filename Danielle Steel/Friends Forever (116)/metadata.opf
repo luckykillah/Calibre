@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6651254a-4d1a-46d7-924c-da29008b5f0d</dc:identifier>
+        <dc:title>Friends Forever</dc:title>
+        <dc:creator opf:file-as="Steel, Danielle" opf:role="aut">Danielle Steel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-24T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Five children meet on the first day of kindergarten. In the years that follow, they become friends and more than friends. Together, they will find strength, meet challenges, face life's adventures, endure loss, face stark realities, and open their hearts. In this moving novel, #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Danielle Steel traces their unforgettable journey--full of tests and trials--as three boys and two girls discover the vital bonds that will last a lifetime.&lt;br&gt;  &lt;br&gt; &lt;b&gt;FRIENDS FOREVER&lt;/b&gt;&lt;br&gt; &lt;br&gt; Gabby, Billy, Izzie, Andy, and Sean--each bursting with their own personality, strikingly different looks and talents, in sports, science, and the arts. Each drawn by the magical spark of connection that happens to the young. At the exclusive Atwood School, on a bright September day, starting in kindergarten they become an inseparable group known to outsiders as the Big Five. In this rarefied world, five families grow closer, and five children bloom beside one...</dc:description>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">978-0-345-53356-2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Danielle Steel&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:48+00:00" name="calibre:timestamp"/>
+        <meta content="Friends Forever" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

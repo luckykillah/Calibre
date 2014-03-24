@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">126</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e653a8b-7e5d-4628-b0fd-cac0f3d6cd0b</dc:identifier>
+        <dc:title>World War Z</dc:title>
+        <dc:creator opf:file-as="Brooks, Max" opf:role="aut">Max Brooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-09-12T04:00:00+00:00</dc:date>
+        <dc:description>"The end was near." --Voices from the Zombie War&lt;br&gt;&lt;br&gt;The Zombie War came unthinkably close to eradicating humanity. Max Brooks, driven by the urgency of preserving the acid-etched first-hand experiences of the survivors from those apocalyptic years, traveled across the United States of America and throughout the world, from decimated cities that once teemed with upwards of thirty million souls to the most remote and inhospitable areas of the planet. He recorded the testimony of men, women, and sometimes children who came face-to-face with the living, or at least the undead, hell of that dreadful time. &lt;i&gt;World War Z&lt;/i&gt; is the result. Never before have we had access to a document that so powerfully conveys the depth of fear and horror, and also the ineradicable spirit of resistance, that gripped human society through the plague years.&lt;br&gt;&lt;br&gt;Ranging from the now infamous village of New Dachang in the United Federation of China, where the epidemiological trail began with the...</dc:description>
+        <dc:publisher>Crown Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307351937</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Max Brooks&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:51+00:00" name="calibre:timestamp"/>
+        <meta content="World War Z" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

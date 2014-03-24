@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">165</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47a175df-8716-409b-9fee-b6c35f30a5b5</dc:identifier>
+        <dc:title>The Maze Runner</dc:title>
+        <dc:creator opf:file-as="Dashner, James" opf:role="aut">James Dashner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-19T04:00:00+00:00</dc:date>
+        <dc:publisher>ePub Bud (www.epubbud.com)</dc:publisher>
+        <dc:identifier opf:scheme="EPUBBUD">http|//www.epubbud.com/temploc/epubs/T6WFBLHH/final/The_Maze_Runner.epub</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;James Dashner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-12-22T19:37:19+00:00" name="calibre:timestamp"/>
+        <meta content="Maze Runner, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

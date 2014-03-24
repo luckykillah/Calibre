@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f638f1bc-2368-4174-842b-f3e2c194b470</dc:identifier>
+        <dc:title>Mobile Phones and Economic Development in Africa</dc:title>
+        <dc:creator opf:file-as="Aker, Jenny C. &amp; Mbiti, Isaac M." opf:role="aut">Jenny C. Aker</dc:creator>
+        <dc:creator opf:file-as="Aker, Jenny C. &amp; Mbiti, Isaac M." opf:role="aut">Isaac M. Mbiti</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-20T02:25:28+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Isaac M. Mbiti&quot;: &quot;&quot;, &quot;Jenny C. Aker&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:25:28+00:00" name="calibre:timestamp"/>
+        <meta content="Mobile Phones and Economic Development in Africa" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">446404a0-7d70-48b5-b87c-14bd9afcf048</dc:identifier>
+        <dc:title>The Information: A History, a Theory, a Flood</dc:title>
+        <dc:creator opf:file-as="Staff, James Gleick" opf:role="aut">James Gleick Staff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-15T10:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;The Information&lt;/em&gt; is a book about everything, from words themselves to talking drums, writing and lexicography, early attempts at an analytical engine, the telegraph and telephone, ENIAC, and the ubiquitous computers that followed. But that's just the "History." The "Theory" focuses on such 20th-century notables as Claude Shannon, Norbert Wiener, Alan Turing, and others who worked on coding, decoding, and re-coding both the meaning and the myriad messages transmitted via the media of their times. In the "Flood," Gleick explains genetics as biology's mechanism for informational exchange--Is a chicken just an egg's way of making another egg?--and discusses self-replicating memes (ideas as different as earworms and racism) as information's own evolving meta-life forms. Along the way, readers learn about music and quantum mechanics, why forgetting takes work, the meaning of an "interesting number," and why "[t]he bit is the ultimate unsplittable particle." What results is a visceral sense of information's contemporary precedence as a way of understanding the world, a physical/symbolic palimpsest of self-propelled exchange, the universe itself as the ultimate analytical engine. If Borges's "Library of Babel" is literature's iconic cautionary tale about the extreme of informational overload, Gleick sees the opposite, the world as an endlessly unfolding opportunity in which "creatures of the information" may just recognize themselves. --_Jason Kirk_&lt;/p&gt;&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;&lt;p&gt;Starred Review. In 1948, Bell Laboratories announced the invention of the electronic semiconductor and its revolutionary ability to do anything a vacuum tube could do but more efficiently. While the revolution in communications was taking these steps, Bell Labs scientist Claude Shannon helped to write a monograph for them, A Mathematical Theory of Communication, in which he coined the word bit to name a fundamental unit of computer information. As bestselling author Gleick (Chaos) astutely argues, Shannon's neologism profoundly changed our view of the world; his brilliant work introduced us to the notion that a tiny piece of hardware could transmit messages that contained meaning and that a physical unit, a bit, could measure a quality as elusive as information. Shannon's story is only one of many in this sprawling history of information. With his brilliant ability to synthesize mounds of details and to tell rich stories, Gleick leads us on a journey from one form of communicating information to another, beginning with African tribes' use of drums and including along the way scientists like Samuel B. Morse, who invented the telegraph; Norbert Wiener, who developed cybernetics; and Ada Byron, the great Romantic poet's daughter, who collaborated with Charles Babbage in developing the first mechanical computer. Gleick's exceptional history of culture concludes that information is indeed the blood, the fuel, and the vital principle on which our world runs. (Apr.) &lt;br&gt;(c) Copyright PWxyz, LLC. All rights reserved. &lt;/p&gt;
+
+&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins Publishers Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007225736</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Amazon Top Books of 2011.Nonfiction.Science</dc:subject>
+        <meta content="{&quot;James Gleick Staff&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="0101-01-01T10:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Information: A History, a Theory, a Flood, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

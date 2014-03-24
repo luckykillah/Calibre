@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb6ad6ea-5be7-4400-b0ba-774b1c43c630</dc:identifier>
+        <dc:title>The Hunger Games</dc:title>
+        <dc:creator opf:file-as="Collins, Suzanne" opf:role="aut">Suzanne Collins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-01T04:00:00+00:00</dc:date>
+        <dc:publisher>Scholastic</dc:publisher>
+        <dc:identifier opf:scheme="SONYBOOKID">CBUSCESCL0003G07</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="{&quot;Suzanne Collins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:26:36+00:00" name="calibre:timestamp"/>
+        <meta content="Hunger Games, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

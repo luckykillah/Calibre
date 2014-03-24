@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">185</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4e506388-4fac-462f-a09c-403a6b6d19d2</dc:identifier>
+        <dc:title>The Selfish Gene: 30th Anniversary Edition</dc:title>
+        <dc:creator opf:file-as="Dawkins, Richard" opf:role="aut">Richard Dawkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-06T11:41:26+00:00</dc:date>
+        <dc:publisher>Oxford University Press, USA</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Richard Dawkins&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-05T03:20:00+00:00" name="calibre:timestamp"/>
+        <meta content="Selfish Gene: 30th Anniversary Edition, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

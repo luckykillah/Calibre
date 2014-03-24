@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">87</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d65f6e7-713c-45cf-961c-e6927e24f6ed</dc:identifier>
+        <dc:title>Steve Jobs</dc:title>
+        <dc:creator opf:file-as="Isaacson, Walter" opf:role="aut">Walter Isaacson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.64) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-24T10:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Product Description&lt;/h3&gt;&lt;p&gt;Based on more than forty interviews with Jobs conducted over two years—as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing. &lt;/p&gt;&lt;p&gt;At a time when America is seeking ways to sustain its innovative edge, and when societies around the world are trying to build digital-age economies, Jobs stands as the ultimate icon of inventiveness and applied imagination. He knew that the best way to create value in the twenty-first century was to connect creativity with technology. He built a company where leaps of the imagination were combined with remarkable feats of engineering.   &lt;/p&gt;&lt;p&gt;Although Jobs cooperated with this book, he asked for no control over what was written nor even the right to read it before it was published. He put nothing off-limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted. &lt;/p&gt;&lt;p&gt;Driven by demons, Jobs could drive those around him to fury and despair. But his personality and products were interrelated, just as Apple’s hardware and software tended to be, as if part of an integrated system. His tale is instructive and cautionary, filled with lessons about innovation, character, leadership, and values. &lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Walter Isaacson&lt;/strong&gt;, the CEO of the Aspen Institute, has been chairman of CNN and the managing editor of &lt;em&gt;Time&lt;/em&gt; magazine. He is the author of &lt;em&gt;Benjamin Franklin: An American Life&lt;/em&gt; and of &lt;em&gt;Kissinger: A Biography&lt;/em&gt;, and the coauthor of &lt;em&gt;The Wise Men: Six Friends and the World They Made&lt;/em&gt;. He lives in Washington, D.C., with his wife and daughter. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vintage</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">030795028X</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">mHgOtwAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780307950284</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">12598881</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Amazon Top Books of 2011</dc:subject>
+        <dc:subject>Washington Post Top 10 of 2011</dc:subject>
+        <meta content="{&quot;Walter Isaacson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2011-11-11T10:00:00+00:00" name="calibre:timestamp"/>
+        <meta content="Steve Jobs" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

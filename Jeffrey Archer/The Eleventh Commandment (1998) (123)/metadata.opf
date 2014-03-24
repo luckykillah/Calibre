@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f49adf68-b16a-4a67-92c3-191c98d3026c</dc:identifier>
+        <dc:title>The Eleventh Commandment (1998)</dc:title>
+        <dc:creator opf:file-as="Archer, Jeffrey" opf:role="aut">Jeffrey Archer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-04-17T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div class="blurb"&gt;Connor Fitzgerald is the professional's professional. Holder of 
+the Medal of Honor. Devoted family man. Servant of his country. The CIA's most 
+deadly weapon. But for the past twenty-eight years, Fitzgerald has been leading 
+a double life. And only days from his retirement from the Agency, he comes 
+across an enemy even he cannot handle. The enemy is his own boss, the Director 
+of the CIA. And she has only one purpose: to destroy him. Meanwhile, the United 
+States is faced with an equally formidable foe: a new Russian President, 
+determined to force a military confrontation between the two superpowers. 
+Ranging from the Oval Office in the White House to a Russian Mafia boss's 
+luxurious hideaway outside St Petersburg, The Eleventh Commandment sets new 
+standards in contemporary thriller writing. Jeffrey Archer scoops his readers up 
+in the first paragraph, and doesn't let them go until the last. The pace, the 
+ingenuity, the twists, intertwined with a moving love story, show Britain's 
+bestselling writer at the peak of his page-turning powers. &lt;/div&gt;</dc:description>
+        <dc:publisher>Harper Collins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780007805198</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Jeffrey Archer</dc:subject>
+        <meta content="{&quot;Jeffrey Archer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:51+00:00" name="calibre:timestamp"/>
+        <meta content="The Eleventh Commandment (1998)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

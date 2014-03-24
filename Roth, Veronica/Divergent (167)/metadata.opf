@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">167</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">528194fd-4c8c-4f5d-8441-5224aeba992a</dc:identifier>
+        <dc:title>Divergent</dc:title>
+        <dc:creator opf:file-as="Roth, Veronica" opf:role="aut">Roth, Veronica</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-02T14:00:00+00:00</dc:date>
+        <dc:publisher>Harper Collins, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Roth, Veronica&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-12-22T19:39:28+00:00" name="calibre:timestamp"/>
+        <meta content="Divergent" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c18704ba-8c3c-4dc6-81ce-5aaf8b2d5e7f</dc:identifier>
+        <dc:title>Guilty Wives</dc:title>
+        <dc:creator opf:file-as="Ellis, David" opf:role="aut">Patterson, James</dc:creator>
+        <dc:creator opf:file-as="Ellis, David" opf:role="aut">Ellis, David</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-03-26T04:00:00+00:00</dc:date>
+        <dc:publisher>Hachette Book Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Ellis, David&quot;: &quot;&quot;, &quot;Patterson, James&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:50+00:00" name="calibre:timestamp"/>
+        <meta content="Guilty Wives" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2bbdbcbd-89e4-4c3e-97e5-9e1e253d6d24</dc:identifier>
+        <dc:title>The Casual Vacancy</dc:title>
+        <dc:creator opf:file-as="Rowling, J. K." opf:role="aut">J. K. Rowling</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.64) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;When Barry Fairbrother dies unexpectedly in his early forties, the little town of Pagford is left in shock. Pagford is, seemingly, an English idyll, with a cobbled market square and an ancient abbey, but what lies behind the pretty façade is a town at war. Rich at war with poor, teenagers at war with their parents, wives at war with their husbands, teachers at war with their pupils…. Pagford is not what it first seems. And the empty seat left by Barry on the town’s council soon becomes the catalyst for the biggest war the town has yet seen. Who will triumph in an election fraught with passion, duplicity and unexpected revelations? Blackly comic, thought-provoking and constantly surprising, &lt;em&gt;The Casual Vacancy&lt;/em&gt; is J.K. Rowling’s first novel for adults.&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;&lt;p&gt;J.K. Rowling is the author of the bestselling Harry Potter series of seven books, published between 1997 and 2007, which have sold more than 450 million copies worldwide, are distributed in more than 200 territories, translated into 74 languages, and have been turned into eight blockbuster films. She has also written two small volumes, which appear as the titles of Harry’s schoolbooks within the novels. &lt;em&gt;Fantastic Beasts &amp;amp; Where to Find Them&lt;/em&gt; and &lt;em&gt;Quidditch Through The Ages&lt;/em&gt; were published by Scholastic Bloomsbury Children’s Books in March 2001 in aid of Comic Relief. In December 2008, &lt;em&gt;The Tales of Beedle the Bard&lt;/em&gt; was published in aid of the Children’s High Level Group, and quickly became the fastest selling book of the year.&lt;/p&gt;&lt;p&gt;As well as an OBE for services to children’s literature, J.K. Rowling is the recipient of numerous awards and honorary degrees including the Prince of Asturias Award for Concord, France’s Légion d’honneur, and the Hans Christian Andersen Literature Award, and she has been a Commencement Speaker at Harvard University. She supports a wide number of charitable causes through her charitable trust Volant, and is the founder of Lumos, a charity working to transform the lives of disadvantaged children.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Little, Brown</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0316228532</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">eLzKugAACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316228534</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;J. K. Rowling&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2012-11-12T06:40:56+00:00" name="calibre:timestamp"/>
+        <meta content="Casual Vacancy, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

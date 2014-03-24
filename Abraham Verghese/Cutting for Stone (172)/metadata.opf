@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9182e732-9e48-4f74-8790-2a944f6c8bee</dc:identifier>
+        <dc:title>Cutting for Stone</dc:title>
+        <dc:creator opf:file-as="Verghese, Abraham" opf:role="aut">Abraham Verghese</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-12T16:00:00+00:00</dc:date>
+        <dc:description>A sweeping, emotionally riveting first novel - an enthralling family saga of Africa and America, doctors and patients, exile and home. Marion and Shiva Stone are twin brothers born of a secret union between a beautiful Indian nun and a brash British surgeon at a mission hospital in Addis Ababa. Orphaned by their mother's death in childbirth and their father's disappearance, bound together by a preternatural connection and a shared fascination with medicine, the twins come of age as Ethiopia hovers on the brink of revolution. Yet it will be love, not politics - their passion for the same woman - that will tear them apart and force Marion, fresh out of medical school, to flee his homeland. He makes his way to America, finding refuge in his work as an intern at an underfunded, overcrowded New York City hospital. When the past catches up to him - nearly destroying him - Marion must entrust his life to the two men he thought he trusted least in the world: the surgeon father who abandoned him and the brother who betrayed him. An unforgettable journey into one man's remarkable life, and an epic story about the power, intimacy, and curious beauty of the work of healing others.</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307271341</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Abraham Verghese&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-01-28T03:04:08+00:00" name="calibre:timestamp"/>
+        <meta content="Cutting for Stone" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

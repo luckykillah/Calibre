@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51f43449-93ee-4d8b-89ca-a6dc15fdf39c</dc:identifier>
+        <dc:title>The Taming of Ryder Cavanaugh</dc:title>
+        <dc:creator opf:file-as="Laurens, Stephanie" opf:role="aut">Stephanie Laurens</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-07-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;#1 &lt;em&gt;New York Times&lt;/em&gt; bestselling author Stephanie Laurens returns with the next in her Cynster Sisters series . . .&lt;/p&gt;&lt;p&gt;The Honorable Miss Mary Cynster always gets what she wants. As the last unwed Cynster of her generation, she is determined to remain in charge of her life &lt;em&gt;and&lt;/em&gt; of the man she will marry. At the very bottom of her list of potential husbands is Ryder Cavanaugh, the daring and devastating Marquess of Raventhorne, an overwhelming and utterly unmanageable lion of the ton. But destiny has a different plan.&lt;/p&gt;&lt;p&gt;Ryder needs Mary as his wife, not just because she is delightful, fiery, and tempting, but because he values all she could be. When fate and circumstance hand him the chance, he claims Mary as his marchioness . . . only to discover what he truly desires is not just to take her hand in marriage, but to capture her heart.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Stephanie Laurens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:52+00:00" name="calibre:timestamp"/>
+        <meta content="Taming of Ryder Cavanaugh, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b8c9e27-096a-4580-8569-eb4804e734f5</dc:identifier>
+        <dc:title>Fifty Shades Freed</dc:title>
+        <dc:creator opf:file-as="James, E L" opf:role="aut">E L James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-01-08T05:00:00+00:00</dc:date>
+        <dc:publisher>ePub Bud (www.epubbud.com)</dc:publisher>
+        <dc:identifier opf:scheme="EPUBBUD">http|//www.epubbud.com/epubs/4/Q/4QG593ZX/Fifty_Shades_Freed.epub</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;E L James&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:30:24+00:00" name="calibre:timestamp"/>
+        <meta content="Fifty Shades Freed" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

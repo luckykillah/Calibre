@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">151</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aecc02c7-16d7-4e1f-b9e4-fb5ebd64c43e</dc:identifier>
+        <dc:title>The Year of the Flood</dc:title>
+        <dc:creator opf:file-as="Atwood, Margaret" opf:role="aut">Margaret Atwood</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;An epic of biblical proportions, The Year of the Flood is a feast of imagination and a journey to the end of the world. Adam One is the leader of the God's Gardeners, a religious group devoted to living under the command of the natural world. They wear beige cloth-sacks, cultivate mushrooms, harvest honey and curse each other by shouting: Pig-Eater! Their community is only tolerated by the CorpSeCorps, the ruling power, because they are not perceived as threatening. But, this is a world where gene-splicing is the norm; where lions and lambs have become Liobams and pigs have human DNA. The times, and species, are changing at a rapid rate, and with loyalites as thin as environmental stability, the future is a dangerous place. And, if the Waterless Flood does indeed arrive, as predicted by the Gardeners, will there even be a future to contemplate? Ren is a trapeze dancer at Scales and Tails, and can work a plank just as well. After a rip in her biofilm she is placed in solitary confinement until they can guarantee she is without disease. Her story is one part of our gateway into this uniquely constructed world. The other is Toby, an ex-counter-girl at SecretBurger ('Because we all love a Secret'), a natural cynic and source of extensive homeopathic knowledge; she knows her aminatas from her puffballs. Their stories weave beneath the holy teachings and saintly-songs of Adam One to create a truly apocalyptic vision, a world that harnesses Atwood's wit, dystopic imagination and sharp insight. The result is a collective blast of a novel and one that will remain with you until the Waterless Flood comes.&lt;/p&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780385532082</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Margaret Atwood&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-09-20T04:44:07+00:00" name="calibre:timestamp"/>
+        <meta content="Year of the Flood, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

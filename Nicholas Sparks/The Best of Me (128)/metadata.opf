@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">128</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e03d37df-a05d-48b5-a8c9-1f8a77b321e7</dc:identifier>
+        <dc:title>The Best of Me</dc:title>
+        <dc:creator opf:file-as="Sparks, Nicholas" opf:role="aut">Nicholas Sparks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-10-10T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;THE BEST OF ME is the heart-rending story of two small-town former high school 
+sweethearts from opposite sides of the tracks. Now middle-aged, they've taken 
+wildly divergent paths, but neither has lived the life they imagined . . . and 
+neither can forget the passionate first love that forever altered their world. 
+When they are both called back to their hometown for the funeral of the mentor 
+who once gave them shelter, they will be forced to confront the choices each has 
+made, and ask whether love can truly rewrite the past.&lt;br&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Nicholas Sparks</dc:subject>
+        <meta content="{&quot;Nicholas Sparks&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:52+00:00" name="calibre:timestamp"/>
+        <meta content="Best of Me, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

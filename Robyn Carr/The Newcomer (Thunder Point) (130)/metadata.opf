@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">637c6907-e09c-43b5-b840-2a94d899a7a6</dc:identifier>
+        <dc:title>The Newcomer (Thunder Point)</dc:title>
+        <dc:creator opf:file-as="Carr, Robyn" opf:role="aut">Robyn Carr</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-30T14:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;With humor and insight, #1 New York Times bestselling author Robyn Carr&lt;br&gt;			explores letting go of the past - and finding something worth building a future on&lt;br&gt;			Single dad and Thunder Point's deputy sheriff [unknown-8220]Mac[unknown-8221]&lt;br&gt;			McCain has worked hard to keep his town safe and his daughter happy. Now he's found&lt;br&gt;			his own happiness with Gina James. The longtime friends have always shared the&lt;br&gt;			challenges and rewards of raising their adolescent daughters. With an unexpected romance&lt;br&gt;			growing between them, they're feeling like teenagers themselves - suddenly they&lt;br&gt;			can't get enough of one another. And just when things are really taking off, their&lt;br&gt;			lives are suddenly thrown into chaos. When Mac's long-lost ex-wife shows up in&lt;br&gt;			town, drama takes on a whole new meaning. Mac and Gina know they're meant to be&lt;br&gt;			together, but can their newfound love withstand the pressure?&lt;/p&gt;</dc:description>
+        <dc:publisher>Harlequin</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B00BED26QS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Robyn Carr&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="Thunder Point" name="calibre:series"/>
+        <meta content="2" name="calibre:series_index"/>
+        <meta content="2013-08-08T03:17:52+00:00" name="calibre:timestamp"/>
+        <meta content="Newcomer (Thunder Point), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

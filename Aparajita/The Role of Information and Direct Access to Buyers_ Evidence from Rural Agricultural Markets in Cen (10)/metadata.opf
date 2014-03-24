@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0cbb1650-2eba-487d-b459-ea58c4b3ed0a</dc:identifier>
+        <dc:title>The Role of Information and Direct Access to Buyers: Evidence from Rural Agricultural Markets in Central India</dc:title>
+        <dc:creator opf:file-as="Aparajita" opf:role="aut">Aparajita</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-20T02:25:39+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Aparajita&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-20T02:25:39+00:00" name="calibre:timestamp"/>
+        <meta content="Role of Information and Direct Access to Buyers: Evidence from Rural Agricultural Markets in Central India, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

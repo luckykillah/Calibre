@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6e36425-2208-4972-b73d-14e246959a8a</dc:identifier>
+        <dc:title>Everything Is Perfect When You're a Liar</dc:title>
+        <dc:creator opf:file-as="Oxford, Kelly" opf:role="aut">Kelly Oxford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Kelly Oxford is . . .&lt;/p&gt;&lt;p&gt;A wunderkind producer of pirated stage productions for six-year-olds&lt;/p&gt;&lt;p&gt;Not the queen of the world&lt;/p&gt;&lt;p&gt;An underage schnitzel-house dishwasher&lt;/p&gt;&lt;p&gt;The kid who stood up to a bully and almost passed out from the resulting adrenaline rush&lt;/p&gt;&lt;p&gt;A born salesman&lt;/p&gt;&lt;p&gt;Capable of willing her eyesight to be 20/20&lt;/p&gt;&lt;p&gt;That girl who peed her pants in the gas station that one time&lt;/p&gt;&lt;p&gt;Totally an expert on strep throat&lt;/p&gt;&lt;p&gt;Incapable of making Leonardo DiCaprio her boyfriend&lt;/p&gt;&lt;p&gt;A writer&lt;/p&gt;&lt;p&gt;A certified therapy assistant who heals with Metallica mixtapes&lt;/p&gt;&lt;p&gt;&amp;#34;Not fat enough to be super snuggly.&amp;#34; --Bea, age four&lt;/p&gt;&lt;p&gt;Not above using raspberry-studded Sh*t to get out of a speeding ticket&lt;/p&gt;&lt;p&gt;&amp;#34;Bitingly funny. But everybody knows that.&amp;#34; --Roger Ebert&lt;/p&gt;&lt;p&gt;Sad that David Copperfield doesn't own a falcon&lt;/p&gt;&lt;p&gt;A terrible liar&lt;/p&gt;</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780062102249</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Kelly Oxford&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-04-17T13:20:12+00:00" name="calibre:timestamp"/>
+        <meta content="Everything Is Perfect When You're a Liar" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

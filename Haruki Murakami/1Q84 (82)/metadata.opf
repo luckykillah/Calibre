@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">82</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">edb6ecb3-0b2c-4061-b59f-4f57db54d7be</dc:identifier>
+        <dc:title>1Q84</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.64) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-05-29T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;“Murakami is like a magician who explains what he’s doing as he performs the trick and still makes you believe he has supernatural powers . . . But while anyone can tell a story that resembles a dream, it's the rare artist, like this one, who can make us feel that we are dreaming it ourselves.” —&lt;em&gt;The New York Times Book Review&lt;/em&gt;&lt;br&gt;&lt;em&gt; &lt;/em&gt;&lt;br&gt;The year is 1984 and the city is Tokyo.&lt;/p&gt;&lt;p&gt;A young woman named Aomame follows a taxi driver’s enigmatic suggestion and begins to notice puzzling discrepancies in the world around her. She has entered, she realizes, a parallel existence, which she calls 1Q84 —“Q is for ‘question mark.’ A world that bears a question.” Meanwhile, an aspiring writer named Tengo takes on a suspect ghostwriting project. He becomes so wrapped up with the work and its unusual author that, soon, his previously placid life begins to come unraveled. &lt;/p&gt;&lt;p&gt;As Aomame’s and Tengo’s narratives converge over the course of this single year, we learn of the profound and tangled connections that bind them ever closer: a beautiful, dyslexic teenage girl with a unique vision; a mysterious religious cult that instigated a shoot-out with the metropolitan police; a reclusive, wealthy dowager who runs a shelter for abused women; a hideously ugly private investigator; a mild-mannered yet ruthlessly efficient bodyguard; and a peculiarly insistent television-fee collector.&lt;/p&gt;&lt;p&gt;A love story, a mystery, a fantasy, a novel of self-discovery, a dystopia to rival George Orwell’s—&lt;em&gt;1Q84&lt;/em&gt; is Haruki Murakami’s most ambitious undertaking yet: an instant best seller in his native Japan, and a tremendous feat of imagination from one of our most revered contemporary writers. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Random House</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1846554055</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">wE8IiWEdJiEC</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781846554056</dc:identifier>
+        <dc:identifier opf:scheme="BARNESNOBLE">1Q84/Haruki-Murakami/e/9780307957023</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">11339865</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>NYT Top 10 of 2011</dc:subject>
+        <dc:subject>Amazon Top Books of 2011.Literature &amp; Fiction</dc:subject>
+        <meta content="{&quot;Haruki Murakami&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2011-10-28T01:42:06+00:00" name="calibre:timestamp"/>
+        <meta content="1Q84" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

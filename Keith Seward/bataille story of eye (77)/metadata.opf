@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">77</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7daa44b-8751-43d5-84ff-4ef1594deb55</dc:identifier>
+        <dc:title>bataille story of eye</dc:title>
+        <dc:creator opf:file-as="Seward, Keith" opf:role="aut">Keith Seward</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-26T04:23:30+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Keith Seward&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-26T04:23:30+00:00" name="calibre:timestamp"/>
+        <meta content="bataille story of eye" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

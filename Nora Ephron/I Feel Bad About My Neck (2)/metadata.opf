@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">177c734b-1635-4e4b-85eb-dea057a5caa4</dc:identifier>
+        <dc:title>I Feel Bad About My Neck</dc:title>
+        <dc:creator opf:file-as="Ephron, Nora" opf:role="aut">Nora Ephron</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-01T04:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;With her disarming, intimate, completely accessible voice, and dry sense of humor, Nora Ephron shares with us her ups and downs in &lt;i&gt;I Feel Bad About My Neck&lt;/i&gt;, a candid, hilarious look at women who are getting older and dealing with the tribulations of maintenance, menopause, empty nests, and life itself.&lt;br&gt;&lt;br&gt;Ephron chronicles her life as an obsessed cook, passionate city dweller, and hapless parent. But mostly she speaks frankly and uproariously about life as a woman of a certain age. Utterly courageous, uproariously funny, and unexpectedly moving in its truth telling, &lt;i&gt;I Feel Bad About My Neck&lt;/i&gt; is a scrumptious, irresistible treat of a book, full of truths, laugh out loud moments that will appeal to readers of all ages.&lt;br&gt;&lt;br&gt;&lt;i&gt;From the Trade Paperback edition.&lt;/i&gt;</dc:description>
+        <dc:publisher>Knopf Doubleday Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307265944</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Nora Ephron&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-16T02:19:54+00:00" name="calibre:timestamp"/>
+        <meta content="I Feel Bad About My Neck" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

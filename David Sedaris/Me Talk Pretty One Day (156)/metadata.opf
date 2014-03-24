@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3a4d21e5-0fa5-40ab-8eca-b2f2daedeef6</dc:identifier>
+        <dc:title>Me Talk Pretty One Day</dc:title>
+        <dc:creator opf:file-as="Sedaris, David" opf:role="aut">David Sedaris</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-01-02T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;h3&gt;Amazon.com Review&lt;/h3&gt;&lt;p&gt;David Sedaris became a star autobiographer on public radio, onstage in New York, and on bestseller lists, mostly on the strength of "SantaLand Diaries," a scathing, hilarious account of his stint as a Christmas elf at Macy's. (It's in two separate collections, both worth owning, &lt;em&gt;Barrel Fever&lt;/em&gt; and the Christmas-themed &lt;em&gt;Holidays on Ice&lt;/em&gt;.) Sedaris's caustic gift has not deserted him in his fourth book, which mines poignant comedy from his peculiar childhood in North Carolina, his bizarre career path, and his move with his lover to France. Though his anarchic inclination to digress is his glory, Sedaris does have a theme in these reminiscences: the inability of humans to communicate. The title is his rendition in transliterated English of how he and his fellow students of French in Paris mangle the Gallic language. In the essay "Jesus Shaves," he and his classmates from many nations try to convey the concept of Easter to a Moroccan Muslim. "It is a party for the little boy of God," says one. "Then he be die one day on two... morsels of... lumber," says another. Sedaris muses on the disputes between his Protestant mother and his father, a Greek Orthodox guy whose Easter fell on a different day. Other essays explicate his deep kinship with his eccentric mom and absurd alienation from his IBM-exec dad: "To me, the greatest mystery of science continues to be that a man could father six children who shared absolutely none of his interests." &lt;/p&gt;&lt;p&gt;Every glimpse we get of Sedaris's family and acquaintances delivers laughs and insights. He thwarts his North Carolina speech therapist ("for whom the word &lt;em&gt;pen&lt;/em&gt; had two syllables") by cleverly avoiding all words with &lt;em&gt;s&lt;/em&gt; sounds, which reveal the lisp she sought to correct. His midget guitar teacher, Mister Mancini, is unaware that Sedaris doesn't share his obsession with breasts, and sings "Light My Fire" all wrong--"as if he were a Webelo scout demanding a match." As a remarkably unqualified teacher at the Art Institute of Chicago, Sedaris had his class watch soap operas and assign "guessays" on what would happen in the next day's episode. &lt;/p&gt;&lt;p&gt;It all adds up to the most distinctively skewed autobiography since Spalding Gray's &lt;em&gt;Swimming to Cambodia&lt;/em&gt;. The only possible reason not to read this book is if you'd rather hear the author's intrinsically funny speaking voice narrating his story. In that case, get &lt;em&gt;Me Talk Pretty One Day&lt;/em&gt; on audio. &lt;em&gt;--Tim Appelo&lt;/em&gt;&lt;/p&gt;&lt;h3&gt;From Wikipedia&lt;/h3&gt;&lt;p&gt;Me Talk Pretty One Day, published in 2000, is a bestselling collection of essays by American humorist David Sedaris. The book is separated into two parts. The first consists of essays about Sedaris’ life before his move to Normandy, France including his upbringing in suburban Raleigh, North Carolina, his time working odd jobs in New York City, and a visit to New York from a childhood friend and her rather bumpkinish girlfriend. The second section, "Deux" tells of Sedaris’ move to Normandy with his partner Hugh, often drawing humor from his efforts to live in France without speaking the French language and his frustrated attempts to learn it. Prior to publication, several of the essays were read by the author on the Public Radio International program, This American Life. Read more - Shopping-Enabled Wikipedia on Amazon&lt;/p&gt;&lt;p&gt;      &lt;strong&gt;In the article: &lt;/strong&gt;Contents&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Back Bay Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316777728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>General</dc:subject>
+        <dc:subject>Literary Collections</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Form</dc:subject>
+        <dc:subject>Essays</dc:subject>
+        <dc:subject>Paris(France)</dc:subject>
+        <dc:subject>Paris</dc:subject>
+        <dc:subject>Americans - France - Paris</dc:subject>
+        <dc:subject>France</dc:subject>
+        <dc:subject>Americans</dc:subject>
+        <dc:subject>Business &amp; Economics</dc:subject>
+        <dc:subject>Paris (France)</dc:subject>
+        <meta content="{&quot;David Sedaris&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2013-09-20T04:47:32+00:00" name="calibre:timestamp"/>
+        <meta content="Me Talk Pretty One Day" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

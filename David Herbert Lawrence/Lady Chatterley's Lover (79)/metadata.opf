@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">79</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9627bb07-9c1f-4249-b611-3314722f803a</dc:identifier>
+        <dc:title>Lady Chatterley's Lover</dc:title>
+        <dc:creator opf:file-as="Lawrence, David Herbert" opf:role="aut">David Herbert Lawrence</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.60) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-02T05:00:00+00:00</dc:date>
+        <dc:description>Lady Chatterley's Lover is a novel by D. H. Lawrence written in 1928.
+Printed privately in Florence in 1928, it was not printed in the United Kingdom until 1960 (other than in an underground edition issued by Inky Stephensen's Mandrake Press in 1929). Lawrence considered calling this book Tenderness at one time and made significant alterations to the original manuscript in order to make it palatable to readers. It has been published in three different versions.
+The publication of the book caused a scandal due to its explicit sex scenes, including previously banned four-letter words, and perhaps because the lovers were a working-class male and an aristocratic female.
+The story is said to have originated from events in Lawrence's own unhappy domestic life, and he took inspiration for the settings of the book from Ilkeston in Derbyshire where he lived for a while. According to some critics the fling of Lady Ottoline Morrell with "Tiger", a young stonemason who came to carve plinths for her garden statues, also influenced the story.</dc:description>
+        <dc:publisher>Feedbooks</dc:publisher>
+        <dc:identifier opf:scheme="URN">urn|uuid|df635108-cc72-11e1-a3a2-001cc0a62c0b</dc:identifier>
+        <dc:identifier opf:scheme="URI">http|//www.feedbooks.com/book/87</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Erotica</dc:subject>
+        <meta content="{&quot;David Herbert Lawrence&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2012-07-26T04:23:50+00:00" name="calibre:timestamp"/>
+        <meta content="Lady Chatterley's Lover" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

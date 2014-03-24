@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e66e65e6-3ed4-425c-a464-4f3a97a69ece</dc:identifier>
+        <dc:title>The Fallen Angel</dc:title>
+        <dc:creator opf:file-as="Silva, Daniel" opf:role="aut">Daniel Silva</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.20) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Gabriel Allon&amp;#8212;art restorer, spy, and assassin&amp;#8212;returns in a spellbinding new thriller from the #1 &lt;i&gt;New York Times&lt;/i&gt;-bestselling master of intrigue and suspense&lt;p&gt;When last we encountered Gabriel Allon in &lt;i&gt;Portrait of a Spy&lt;/i&gt;, he was pitted in a blood-soaked duel with a deadly network of jihadist terrorists. Now, exposed and war-weary, he has returned to his beloved Rome to restore a Caravaggio masterpiece for the Vatican.&lt;p&gt;But while working early one morning in the conservation laboratory, Gabriel is summoned to Saint Peter's Basilica by his friend and occasional ally Monsignor Luigi Donati, the all-powerful private secretary to his Holiness Pope Paul VII. The body of a beautiful woman lies smashed and broken beneath Michelangelo's magnificent dome. The Vatican police rule the death a suicidal fall, though Gabriel, with his restorer's eye and flawless memory, suspects otherwise. So, it seems, does the monsignor. Concerned about a potential scandal, Donati...</dc:description>
+        <dc:publisher>HarperCollins US</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Daniel Silva&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-08-08T03:17:48+00:00" name="calibre:timestamp"/>
+        <meta content="Fallen Angel, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
